@@ -21,7 +21,7 @@ git checkout feature/kevin
 
 3. Crear el entorno virtual
 PowerShell:python -m venv venv
-.\venv\Scripts\Activate.ps1
+
 
 Git Bash:python -m venv venv
 source venv/Scripts/activate
