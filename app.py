@@ -1,22 +1,3 @@
-# app.py
-# Sistema de Gestion de Notas — Grupo 8
-# Script de logica base: demuestra variables, funciones, diccionarios, listas y menu interactivo.
-
-
-# ALMACENAMIENTO EN MEMORIA (diccionarios y listas)
-
-
-# Diccionario principal: guarda todos los estudiantes
-# Estructura:
-# estudiantes = {
-#     "E001": {
-#         "nombre": "Ana Lopez",
-#         "notas": {
-#             "Matematicas": [4.5, 3.8, 5.0],
-#             "Python":      [4.0, 4.2]
-#         }
-#     }
-# }
 estudiantes = {}
 
 # Lista de materias disponibles en el sistema
