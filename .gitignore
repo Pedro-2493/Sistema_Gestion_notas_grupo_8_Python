@@ -178,5 +178,5 @@ pyrightconfig.json
 .venv/
 __pycache__/
 *.pyc
-data/
+data/processed/
 Thumbs.db
