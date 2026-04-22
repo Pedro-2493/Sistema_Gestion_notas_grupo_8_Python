@@ -85,3 +85,40 @@ cols_muestra = ['nombre_estudiante', 'nombre_materia', 'nota1', 'nota2',
 print(df[cols_muestra].head().to_string(index=False))
 print()
  
+ 
+ 
+ # ── 3. AGRUPACIONES (groupby) ──────────────────────────────────────────────────
+ 
+# 3a. Promedio de nota_final por materia
+promedio_por_materia = (
+    df.groupby('nombre_materia')['nota_final']
+    .agg(promedio='mean', minimo='min', maximo='max', total_registros='count')
+    .round(2)
+    .reset_index()
+    .sort_values('promedio', ascending=False)
+)
+ 
+print("─" * 60)
+print("PROMEDIO POR MATERIA")
+print("─" * 60)
+print(promedio_por_materia.to_string(index=False))
+print()
+ 
+ 
+# 3b. Cantidad de estudiantes únicos por grupo
+estudiantes_por_grupo = (
+    df.groupby('grupo')['id_estudiante']
+    .nunique()
+    .reset_index()
+    .rename(columns={'id_estudiante': 'cantidad_estudiantes'})
+    .sort_values('cantidad_estudiantes', ascending=False)
+)
+ 
+print("─" * 60)
+print("CANTIDAD DE ESTUDIANTES POR GRUPO")
+print("─" * 60)
+print(estudiantes_por_grupo.to_string(index=False))
+print()
+ 
+ 
+
