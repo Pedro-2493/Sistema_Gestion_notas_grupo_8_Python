@@ -173,3 +173,18 @@ print("─" * 60)
 print(ranking_estudiantes.head(10).to_string())
 print()
  
+# ── 4. GUARDAR RESULTADOS ──────────────────────────────────────────────────────
+df.to_csv(os.path.join(OUT, 'datos_con_columnas.csv'), index=False)
+promedio_por_materia.to_csv(os.path.join(OUT, 'promedio_por_materia.csv'), index=False)
+estudiantes_por_grupo.to_csv(os.path.join(OUT, 'estudiantes_por_grupo.csv'), index=False)
+aprobacion_materia_periodo.to_csv(os.path.join(OUT, 'aprobacion_materia_periodo.csv'), index=False)
+promedio_grupo_periodo.to_csv(os.path.join(OUT, 'promedio_grupo_periodo.csv'), index=False)
+ranking_estudiantes.to_csv(os.path.join(OUT, 'ranking_estudiantes.csv'))
+ 
+print("✅ Archivos guardados en data/processed/")
+print("   • datos_con_columnas.csv")
+print("   • promedio_por_materia.csv")
+print("   • estudiantes_por_grupo.csv")
+print("   • aprobacion_materia_periodo.csv")
+print("   • promedio_grupo_periodo.csv")
+print("   • ranking_estudiantes.csv")
