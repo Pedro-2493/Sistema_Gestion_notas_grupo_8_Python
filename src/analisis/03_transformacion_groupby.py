@@ -48,3 +48,40 @@ print(f"   Filas    : {len(df)}")
 print(f"   Columnas : {list(df.columns)}\n")
  
  
+# ── 2. COLUMNAS CALCULADAS ─────────────────────────────────────────────────────
+ 
+# 2a. Promedio ponderado  (nota1 30% | nota2 30% | nota3 40%)
+df['promedio_ponderado'] = (
+    df['nota1'] * 0.30 +
+    df['nota2'] * 0.30 +
+    df['nota3'] * 0.40
+).round(2)
+ 
+# 2b. Nota final (promedio simple)
+df['nota_final'] = df[['nota1', 'nota2', 'nota3']].mean(axis=1).round(2)
+ 
+# 2c. Aprobado (umbral colombiano: 3.0)
+df['aprobado'] = df['nota_final'] >= 3.0
+ 
+# 2d. Clasificación de rendimiento
+def clasificar_rendimiento(nota):
+    if nota >= 4.5:
+        return 'Sobresaliente'
+    elif nota >= 4.0:
+        return 'Excelente'
+    elif nota >= 3.0:
+        return 'Aprobado'
+    else:
+        return 'Reprobado'
+ 
+df['rendimiento'] = df['nota_final'].apply(clasificar_rendimiento)
+ 
+print("─" * 60)
+print("COLUMNAS CALCULADAS — primeras 5 filas")
+print("─" * 60)
+cols_muestra = ['nombre_estudiante', 'nombre_materia', 'nota1', 'nota2',
+                'nota3', 'promedio_ponderado', 'nota_final',
+                'aprobado', 'rendimiento']
+print(df[cols_muestra].head().to_string(index=False))
+print()
+ 
