@@ -121,4 +121,35 @@ print(estudiantes_por_grupo.to_string(index=False))
 print()
  
  
+# 3c. Tasa de aprobación por materia y periodo
+aprobacion_materia_periodo = (
+    df.groupby(['nombre_materia', 'periodo'])['aprobado']
+    .agg(total='count', aprobados='sum')
+    .assign(tasa_aprobacion=lambda x: (x['aprobados'] / x['total'] * 100).round(1))
+    .reset_index()
+    .sort_values(['nombre_materia', 'periodo'])
+)
+ 
+print("─" * 60)
+print("TASA DE APROBACIÓN POR MATERIA Y PERIODO (%)")
+print("─" * 60)
+print(aprobacion_materia_periodo.to_string(index=False))
+print()
+ 
+ 
+# 3d. Promedio ponderado por grupo y periodo
+promedio_grupo_periodo = (
+    df.groupby(['grupo', 'periodo'])['promedio_ponderado']
+    .agg(promedio='mean', desviacion='std')
+    .round(2)
+    .reset_index()
+    .sort_values(['periodo', 'grupo'])
+)
+ 
+print("─" * 60)
+print("PROMEDIO PONDERADO POR GRUPO Y PERIODO")
+print("─" * 60)
+print(promedio_grupo_periodo.to_string(index=False))
+print()
+ 
 
