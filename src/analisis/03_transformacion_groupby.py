@@ -153,3 +153,23 @@ print(promedio_grupo_periodo.to_string(index=False))
 print()
  
 
+
+# 3e. Ranking de estudiantes por promedio general
+ranking_estudiantes = (
+    df.groupby(['id_estudiante', 'nombre_estudiante', 'apellido'])['nota_final']
+    .mean()
+    .round(2)
+    .reset_index()
+    .rename(columns={'nota_final': 'promedio_general'})
+    .sort_values('promedio_general', ascending=False)
+    .reset_index(drop=True)
+)
+ranking_estudiantes.index += 1
+ranking_estudiantes.index.name = 'puesto'
+ 
+print("─" * 60)
+print("TOP 10 ESTUDIANTES POR PROMEDIO GENERAL")
+print("─" * 60)
+print(ranking_estudiantes.head(10).to_string())
+print()
+ 
