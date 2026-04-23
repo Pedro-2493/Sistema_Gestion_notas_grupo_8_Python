@@ -13,3 +13,5 @@ print(df_entrega_de_calificaciones.head())
 
 df_cruce = pd.merge(df_informacion_estudiante, df_entrega_de_calificaciones, on='id_nota')
 print(df_cruce.head())
+
+df_cruce.to_csv("data/processed/datos_transformados.csv", index=False)
