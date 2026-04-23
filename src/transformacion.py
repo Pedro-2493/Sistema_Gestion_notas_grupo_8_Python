@@ -10,3 +10,6 @@ print(df_informacion_estudiante.head())
 
 df_entrega_de_calificaciones = df_notas[['id_nota', 'nota1', 'nota2', 'nota3']]
 print(df_entrega_de_calificaciones.head())
+
+df_cruce = pd.merge(df_informacion_estudiante, df_entrega_de_calificaciones, on='id_nota')
+print(df_cruce.head())
