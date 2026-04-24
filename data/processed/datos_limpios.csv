@@ -1,0 +1,1148 @@
+id_nota,id_estudiante,id_materia,periodo,nota1,nota2,nota3,fecha_registro,observacion
+1,1,1,2024-1,1.2,2.8,1.5,2024-03-06,Ipsa eveniet veniam voluptatibus eligendi.
+2,1,2,2024-1,4.3,3.5,4.4,2024-02-02,Sin observacion
+3,1,3,2024-1,3.6,4.1,4.9,2024-01-17,Minus omnis quibusdam commodi iste nulla eos.
+4,1,4,2024-1,2.1,3.5,2.5,2024-02-08,Sin observacion
+5,1,5,2024-1,3.8,3.7,1.3,2024-02-01,Expedita voluptas dolor omnis fuga.
+6,1,6,2024-1,1.7,2.5,5.0,2024-01-30,Alias numquam repellat veniam.
+7,1,7,2024-1,2.3,4.1,1.2,2024-02-27,Libero dolorum earum autem aperiam quidem.
+8,1,8,2024-1,2.1,1.8,4.8,2024-02-09,Nulla qui perferendis ex esse esse quisquam.
+9,2,1,2024-1,3.0,4.5,3.6,2024-02-25,Sin observacion
+10,2,2,2024-1,3.2,2.1,3.3,2024-03-02,Itaque cum quasi pariatur.
+11,2,3,2024-1,5.0,1.6,3.0,2024-01-29,Hic dicta quam maiores consequatur provident quo nam.
+12,2,4,2024-1,3.5,4.2,2.7,2024-01-24,Sin observacion
+13,2,5,2024-1,3.1,4.9,4.4,2024-02-13,Sin observacion
+14,2,6,2024-1,4.5,4.0,4.1,2024-02-27,Sin observacion
+15,2,7,2024-1,2.8,4.8,4.5,2024-01-25,Sin observacion
+16,2,8,2024-1,3.0,1.4,3.5,2024-01-26,Odio autem eaque voluptatem voluptas soluta maxime sapiente.
+17,3,1,2024-1,1.6,4.1,3.2,2024-01-27,Voluptates veniam voluptates accusantium.
+18,3,2,2024-1,3.4,3.0,1.4,2024-01-15,Sin observacion
+19,3,4,2024-1,1.2,4.5,4.8,2024-01-30,Sin observacion
+20,3,5,2024-1,4.9,3.1,1.5,2024-01-19,Quod veritatis similique omnis iste explicabo adipisci.
+21,3,6,2024-1,2.1,4.5,2.7,2024-01-25,Sin observacion
+22,3,7,2024-1,3.8,3.9,2.6,2024-03-01,Ipsa quos delectus molestias qui eius fugit.
+23,3,8,2024-1,3.1,1.5,1.9,2024-03-12,Sin observacion
+24,4,1,2024-1,3.4,1.0,3.8,2024-01-29,Sin observacion
+25,4,2,2024-1,4.4,1.3,2.0,2024-01-17,Ut laboriosam ratione assumenda.
+26,4,3,2024-1,3.9,4.5,3.3,2024-01-23,Sin observacion
+27,4,4,2024-1,1.8,1.4,2.7,2024-02-10,Sin observacion
+28,4,5,2024-1,1.2,3.6,3.6,2024-03-01,Sin observacion
+29,4,6,2024-1,4.4,2.0,1.8,2024-03-06,Sin observacion
+30,4,7,2024-1,2.9,4.5,1.3,2024-02-01,Autem praesentium tempore perferendis porro quibusdam.
+31,4,8,2024-1,1.2,5.0,4.3,2024-01-21,Quam cum quaerat.
+32,5,1,2024-1,1.9,2.6,2.9,2024-03-09,Facere nobis voluptatibus eos maiores facere earum.
+33,5,2,2024-1,2.5,4.9,2.1,2024-01-25,In cupiditate ipsum molestiae nostrum esse.
+34,5,3,2024-1,3.8,3.9,4.1,2024-02-11,Eaque dolorum repudiandae asperiores.
+35,5,4,2024-1,2.2,4.9,3.3,2024-01-27,Sin observacion
+36,5,5,2024-1,1.2,2.9,4.7,2024-01-18,Sin observacion
+37,5,6,2024-1,1.3,1.7,3.4,2024-02-16,Hic et voluptates temporibus deserunt corporis veritatis non.
+38,5,7,2024-1,4.8,3.3,3.3,2024-01-22,Sin observacion
+39,5,8,2024-1,3.3,3.1,4.7,2024-02-26,Sin observacion
+40,6,1,2024-1,2.1,1.5,3.6,2024-01-30,Sin observacion
+41,6,2,2024-1,1.3,2.8,5.0,2024-03-14,Blanditiis suscipit ipsam sequi.
+42,6,3,2024-1,3.0,1.5,2.4,2024-01-28,Sin observacion
+43,6,4,2024-1,1.6,4.3,3.8,2024-02-02,Quis in soluta vitae magni provident error numquam.
+44,6,6,2024-1,3.7,3.2,4.7,2024-01-15,Sin observacion
+45,6,7,2024-1,1.5,1.4,3.2,2024-01-31,Sin observacion
+46,6,8,2024-1,2.4,3.7,4.4,2024-02-29,Sin observacion
+47,7,1,2024-1,4.4,1.4,2.7,2024-03-13,Sin observacion
+48,7,2,2024-1,1.5,4.9,1.6,2024-03-04,Sin observacion
+49,7,3,2024-1,1.0,1.3,4.5,2024-02-19,Corporis quam aliquam quibusdam quasi iusto ipsa quam.
+50,7,4,2024-1,2.5,3.2,2.7,2024-03-08,Sin observacion
+51,7,5,2024-1,4.2,4.4,4.6,2024-03-14,Sin observacion
+52,7,6,2024-1,2.4,3.2,4.5,2024-01-21,Soluta porro sint.
+53,7,7,2024-1,4.7,4.5,4.9,2024-03-14,Ipsam itaque vel.
+54,7,8,2024-1,1.7,4.7,4.1,2024-01-16,Sin observacion
+55,8,1,2024-1,4.2,2.1,4.1,2024-03-02,Sin observacion
+56,8,2,2024-1,2.9,1.8,4.7,2024-03-09,Sin observacion
+57,8,3,2024-1,1.9,1.1,1.8,2024-03-10,Sin observacion
+58,8,4,2024-1,2.1,3.6,2.6,2024-03-04,Magnam exercitationem aperiam consequuntur sed.
+59,8,5,2024-1,1.1,4.5,2.0,2024-03-15,Sin observacion
+60,8,7,2024-1,2.7,3.9,2.3,2024-02-22,Ipsum veritatis natus eum.
+61,8,8,2024-1,4.6,1.8,1.2,2024-02-08,Sin observacion
+62,9,1,2024-1,3.2,3.9,4.0,2024-03-06,Quos ex error ex perferendis odit.
+63,9,2,2024-1,4.8,4.7,3.5,2024-01-19,Reprehenderit quasi eius repudiandae facilis.
+64,9,3,2024-1,2.2,2.2,2.6,2024-03-12,Sin observacion
+65,9,4,2024-1,1.8,3.7,2.5,2024-01-23,Fugit reprehenderit a ratione magnam totam.
+66,9,5,2024-1,2.2,3.2,1.0,2024-02-20,Sin observacion
+67,9,6,2024-1,3.4,2.3,2.8,2024-02-21,Non a corporis vero.
+68,9,7,2024-1,4.6,4.2,1.7,2024-03-05,Sin observacion
+69,9,8,2024-1,3.5,1.4,4.8,2024-02-24,Sin observacion
+70,10,1,2024-1,1.8,1.1,2.0,2024-03-06,Sin observacion
+71,10,2,2024-1,2.8,4.5,3.3,2024-01-19,Qui necessitatibus corporis repudiandae.
+72,10,3,2024-1,2.0,3.6,1.0,2024-02-09,Molestiae facilis aperiam dignissimos a illum.
+73,10,4,2024-1,4.1,1.9,4.2,2024-01-21,Consequuntur quisquam ipsam quis fugit unde.
+74,10,5,2024-1,2.0,4.4,2.8,2024-02-19,Voluptatibus officiis recusandae consectetur reprehenderit laudantium.
+75,10,6,2024-1,3.4,4.8,4.6,2024-02-19,Quia magnam aliquam voluptatibus ipsa aliquam.
+76,10,7,2024-1,2.7,4.6,2.8,2024-02-16,Sin observacion
+77,10,8,2024-1,2.0,2.0,3.6,2024-02-12,Officiis aut quisquam minima cum quo.
+78,11,1,2024-1,2.0,2.8,3.9,2024-02-24,Sin observacion
+79,11,2,2024-1,3.2,1.6,1.9,2024-03-12,Alias error cupiditate nisi dolorum.
+80,11,3,2024-1,2.7,2.3,2.9,2024-01-19,Sin observacion
+81,11,4,2024-1,4.6,3.3,3.8,2024-02-08,Veritatis delectus ipsam quis labore tempora quas.
+82,11,5,2024-1,2.9,4.8,2.2,2024-02-08,Sin observacion
+83,11,6,2024-1,2.7,4.0,3.2,2024-03-08,Non vel quis ea reiciendis.
+84,11,7,2024-1,2.1,2.9,2.6,2024-01-29,Occaecati hic aliquid nam quaerat eveniet tempore.
+85,11,8,2024-1,1.7,2.9,1.5,2024-03-01,Quisquam incidunt quibusdam suscipit odio quaerat porro.
+86,12,1,2024-1,3.4,3.7,1.3,2024-02-09,Sin observacion
+87,12,2,2024-1,1.2,2.5,1.8,2024-01-26,Sin observacion
+88,12,3,2024-1,2.1,4.8,2.7,2024-02-08,Mollitia ex perferendis tenetur esse atque voluptatem.
+89,12,4,2024-1,3.2,5.0,2.4,2024-03-02,Pariatur ut cumque omnis voluptates.
+90,12,5,2024-1,1.2,1.1,2.0,2024-02-25,Reprehenderit ratione explicabo sapiente quia ipsam cumque.
+91,12,6,2024-1,1.5,3.7,3.3,2024-01-30,Sin observacion
+92,12,7,2024-1,2.5,3.4,4.9,2024-03-04,Est nulla occaecati vel voluptatum occaecati eligendi.
+93,12,8,2024-1,4.9,1.4,1.1,2024-01-25,Sin observacion
+94,13,1,2024-1,2.6,3.9,1.3,2024-02-08,Quasi doloribus reprehenderit placeat at animi earum.
+95,13,2,2024-1,3.8,2.2,3.7,2024-01-21,Sint natus ab aliquid ad eveniet hic consequuntur.
+96,13,3,2024-1,4.1,2.4,2.7,2024-02-20,Sin observacion
+97,13,4,2024-1,1.1,2.7,3.0,2024-02-05,Sin observacion
+98,13,5,2024-1,4.3,3.8,2.7,2024-03-12,Maiores placeat delectus eos.
+99,13,7,2024-1,4.7,4.1,2.9,2024-03-06,Consequuntur repellendus qui repellat exercitationem.
+100,13,8,2024-1,4.4,4.3,1.3,2024-02-04,Dolorem corrupti odit.
+101,14,1,2024-1,3.3,3.7,2.3,2024-02-13,Sin observacion
+102,14,2,2024-1,1.8,4.2,2.4,2024-02-15,Ipsa quibusdam quod rerum.
+103,14,3,2024-1,3.2,3.1,1.8,2024-02-01,Sin observacion
+104,14,4,2024-1,4.0,3.8,3.6,2024-02-19,Sin observacion
+105,14,5,2024-1,2.2,2.6,2.0,2024-01-20,Nobis ipsum ipsa dolorum.
+106,14,6,2024-1,3.1,2.7,4.0,2024-02-19,Sin observacion
+107,14,7,2024-1,2.2,1.9,3.9,2024-02-01,Sin observacion
+108,14,8,2024-1,4.0,1.7,1.9,2024-03-15,Sin observacion
+109,15,1,2024-1,3.1,2.1,1.4,2024-03-03,Sin observacion
+110,15,2,2024-1,2.2,3.8,1.5,2024-01-26,Sin observacion
+111,15,3,2024-1,3.8,1.5,4.5,2024-02-02,Sin observacion
+112,15,4,2024-1,2.1,2.9,2.4,2024-02-20,Illo doloremque eius dolorum iure consequatur voluptates accusantium.
+113,15,5,2024-1,2.9,4.3,2.6,2024-03-10,Sin observacion
+114,15,6,2024-1,1.6,4.2,4.8,2024-01-18,Sin observacion
+115,15,7,2024-1,4.1,3.4,4.2,2024-02-19,Sin observacion
+116,15,8,2024-1,4.6,2.2,3.4,2024-02-12,Sin observacion
+117,16,1,2024-1,3.4,4.0,4.8,2024-01-18,Sin observacion
+118,16,2,2024-1,1.3,2.0,3.2,2024-02-26,Sin observacion
+119,16,3,2024-1,3.4,2.2,1.9,2024-02-28,Maiores eveniet molestiae incidunt.
+120,16,4,2024-1,1.3,1.9,2.1,2024-02-13,Vitae minima sequi perspiciatis molestias quod vero.
+121,16,5,2024-1,4.7,2.7,3.2,2024-03-06,Soluta quia enim molestias consectetur aut doloremque.
+122,16,6,2024-1,1.6,1.2,4.2,2024-03-07,Sin observacion
+123,16,7,2024-1,2.2,1.5,3.8,2024-03-13,Molestiae porro enim sed perspiciatis.
+124,16,8,2024-1,3.2,2.8,3.4,2024-02-16,Cupiditate nesciunt deserunt consequatur.
+125,17,1,2024-1,2.0,1.4,4.8,2024-02-22,Nostrum praesentium nisi numquam architecto saepe totam.
+126,17,2,2024-1,1.1,4.1,4.3,2024-03-15,Sin observacion
+127,17,3,2024-1,2.9,3.6,4.7,2024-01-26,Sin observacion
+128,17,4,2024-1,4.3,4.9,2.9,2024-02-24,Sin observacion
+129,17,5,2024-1,4.4,2.3,3.8,2024-01-21,Sin observacion
+130,17,6,2024-1,4.0,1.1,1.4,2024-03-07,Sin observacion
+131,17,7,2024-1,2.6,3.1,5.0,2024-03-04,Fugit quod numquam maiores laboriosam.
+132,17,8,2024-1,1.2,3.1,3.5,2024-02-10,Sin observacion
+133,18,1,2024-1,1.8,3.2,4.7,2024-01-18,Sin observacion
+134,18,2,2024-1,1.1,3.5,4.2,2024-01-22,Ipsum et doloremque.
+135,18,3,2024-1,3.2,1.4,5.0,2024-01-15,Molestias autem sunt modi aspernatur amet.
+136,18,4,2024-1,3.6,1.6,4.7,2024-01-22,Sin observacion
+137,18,5,2024-1,4.3,4.9,2.0,2024-02-10,Sin observacion
+138,18,6,2024-1,3.4,4.0,1.5,2024-03-13,Sin observacion
+139,18,7,2024-1,2.7,4.7,3.0,2024-03-09,Porro hic quis explicabo molestiae officia.
+140,18,8,2024-1,4.3,3.3,3.6,2024-02-03,Minus laborum ut eaque labore tenetur.
+141,19,1,2024-1,2.4,3.2,3.2,2024-02-14,Sin observacion
+142,19,2,2024-1,4.9,2.0,2.5,2024-01-27,Culpa minus tempora perferendis magnam.
+143,19,3,2024-1,4.0,3.8,4.2,2024-02-04,Sin observacion
+144,19,4,2024-1,3.6,1.6,4.9,2024-03-07,Sin observacion
+145,19,6,2024-1,4.5,2.8,3.1,2024-01-21,Sin observacion
+146,19,7,2024-1,4.5,4.9,1.3,2024-02-10,Animi voluptate asperiores neque delectus.
+147,19,8,2024-1,3.8,3.6,4.4,2024-02-23,Reprehenderit porro eius.
+148,20,1,2024-1,4.8,3.5,4.5,2024-02-08,Sin observacion
+149,20,2,2024-1,1.3,3.5,4.7,2024-02-23,Accusamus necessitatibus magnam veritatis error ad.
+150,20,3,2024-1,4.9,4.0,3.8,2024-02-11,Sin observacion
+151,20,4,2024-1,4.6,1.2,4.2,2024-02-03,Sin observacion
+152,20,5,2024-1,2.0,2.6,3.7,2024-01-24,Sin observacion
+153,20,6,2024-1,4.5,3.5,2.0,2024-02-23,Ad dolore saepe error.
+154,20,7,2024-1,3.6,2.8,3.7,2024-02-13,Ipsa qui saepe commodi at at.
+155,20,8,2024-1,3.7,1.6,2.8,2024-02-02,Sin observacion
+156,21,1,2024-1,4.8,3.8,2.8,2024-02-24,Sin observacion
+157,21,3,2024-1,1.9,3.3,3.3,2024-01-21,Consectetur assumenda natus minima impedit quis.
+158,21,4,2024-1,3.6,2.1,3.3,2024-03-08,Modi nihil reprehenderit in praesentium impedit aliquid.
+159,21,5,2024-1,4.6,4.0,4.3,2024-01-18,Quaerat doloribus eveniet ullam.
+160,21,6,2024-1,3.4,2.4,3.5,2024-01-29,Sequi minus minus adipisci optio similique.
+161,21,7,2024-1,4.1,3.7,1.5,2024-03-01,Sin observacion
+162,21,8,2024-1,2.2,2.8,3.3,2024-01-17,Nostrum cupiditate ullam eligendi fugiat.
+163,22,1,2024-1,2.3,2.7,1.8,2024-02-02,Facilis excepturi harum minima at tenetur.
+164,22,2,2024-1,3.1,4.7,4.3,2024-02-07,Sin observacion
+165,22,3,2024-1,4.9,2.2,4.5,2024-02-14,Quisquam architecto ipsam est nobis.
+166,22,4,2024-1,1.6,4.9,4.4,2024-01-19,Ut facere mollitia officiis animi laudantium ipsam.
+167,22,7,2024-1,1.4,2.6,2.1,2024-02-07,Sin observacion
+168,22,8,2024-1,3.7,3.3,4.3,2024-03-02,Quam dolorem dolor inventore.
+169,23,1,2024-1,2.9,3.5,4.8,2024-01-29,Sin observacion
+170,23,2,2024-1,1.3,4.3,4.6,2024-02-25,Sin observacion
+171,23,3,2024-1,1.2,1.1,5.0,2024-01-23,Sin observacion
+172,23,4,2024-1,1.5,2.8,3.7,2024-02-18,Quia enim suscipit dolor ad atque.
+173,23,5,2024-1,3.3,3.9,4.5,2024-02-10,Facilis provident aperiam expedita sit ipsum.
+174,23,6,2024-1,2.6,4.8,1.1,2024-02-23,Sin observacion
+175,23,7,2024-1,1.9,2.5,4.9,2024-03-15,Sin observacion
+176,23,8,2024-1,2.4,2.6,1.8,2024-02-25,Sin observacion
+177,24,1,2024-1,1.4,1.8,3.6,2024-02-13,Vero reiciendis reprehenderit dolor.
+178,24,2,2024-1,2.0,1.5,3.3,2024-02-05,Sin observacion
+179,24,3,2024-1,3.3,4.3,1.9,2024-01-28,Fugiat expedita quaerat eos.
+180,24,4,2024-1,1.0,4.4,1.6,2024-02-22,Sin observacion
+181,24,5,2024-1,1.4,4.5,1.5,2024-01-26,Sin observacion
+182,24,6,2024-1,2.3,1.7,1.2,2024-02-21,Earum nulla cumque.
+183,24,7,2024-1,1.3,2.8,2.4,2024-03-02,Sin observacion
+184,24,8,2024-1,4.8,1.2,4.1,2024-01-29,Hic quis saepe dicta aliquid.
+185,25,1,2024-1,3.6,1.1,5.0,2024-02-13,Aliquam id sequi debitis tempora.
+186,25,2,2024-1,3.0,4.6,1.3,2024-01-21,Sin observacion
+187,25,3,2024-1,1.5,3.5,3.3,2024-01-19,Eaque vitae autem aspernatur earum ipsum.
+188,25,4,2024-1,3.1,2.8,3.4,2024-02-22,Sin observacion
+189,25,5,2024-1,3.6,4.5,3.2,2024-03-09,Suscipit magni occaecati repudiandae quae.
+190,25,6,2024-1,1.9,2.4,2.8,2024-03-11,Sin observacion
+191,25,7,2024-1,2.3,2.0,4.8,2024-02-11,Ipsa numquam laborum ut rem enim id.
+192,25,8,2024-1,4.3,1.4,1.4,2024-01-20,Maxime iusto dolores similique.
+193,26,1,2024-1,1.2,4.8,3.2,2024-02-19,Modi non explicabo sint aliquam placeat.
+194,26,2,2024-1,3.7,4.0,4.5,2024-03-10,Harum officiis officia distinctio rem modi aut.
+195,26,4,2024-1,1.4,3.0,1.6,2024-02-06,Sin observacion
+196,26,5,2024-1,4.4,2.5,4.1,2024-02-06,Sin observacion
+197,26,6,2024-1,3.2,4.1,3.5,2024-03-09,Corporis nobis laudantium ad.
+198,26,7,2024-1,4.7,4.3,2.1,2024-02-22,Sin observacion
+199,26,8,2024-1,4.7,2.4,1.7,2024-02-03,Sin observacion
+200,27,1,2024-1,1.6,3.5,1.1,2024-01-19,Perferendis reprehenderit dicta odio dolorem.
+201,27,2,2024-1,2.8,1.6,2.2,2024-02-10,Sin observacion
+202,27,3,2024-1,1.3,1.2,1.6,2024-02-22,Qui corrupti esse aperiam dolore tempora.
+203,27,4,2024-1,2.8,2.7,3.4,2024-02-01,Sin observacion
+204,27,5,2024-1,1.5,2.7,2.1,2024-02-16,Qui nisi hic aliquam.
+205,27,6,2024-1,2.2,1.9,4.9,2024-02-26,Sin observacion
+206,27,7,2024-1,1.8,1.5,2.0,2024-03-15,Sin observacion
+207,27,8,2024-1,2.7,1.5,3.1,2024-03-02,Sin observacion
+208,28,1,2024-1,4.2,1.3,4.4,2024-02-26,Sin observacion
+209,28,2,2024-1,1.3,2.3,2.7,2024-03-13,Sin observacion
+210,28,3,2024-1,1.5,1.1,2.3,2024-02-02,Ad iure optio fugiat deserunt ea.
+211,28,4,2024-1,3.8,2.4,2.7,2024-03-08,Sin observacion
+212,28,5,2024-1,3.1,2.6,2.2,2024-02-09,Sin observacion
+213,28,6,2024-1,1.3,3.5,3.1,2024-01-25,Sin observacion
+214,28,7,2024-1,3.9,4.3,4.3,2024-02-06,Sin observacion
+215,28,8,2024-1,1.7,1.6,4.0,2024-01-27,Sin observacion
+216,29,2,2024-1,4.0,4.0,2.8,2024-02-13,Veniam provident veniam voluptas consequuntur in.
+217,29,3,2024-1,4.9,2.3,4.9,2024-02-24,Sin observacion
+218,29,4,2024-1,2.8,2.2,2.1,2024-02-14,Sin observacion
+219,29,5,2024-1,2.8,1.2,2.5,2024-02-03,Sin observacion
+220,29,6,2024-1,1.4,3.4,2.5,2024-03-09,Sin observacion
+221,29,8,2024-1,2.8,4.2,3.6,2024-01-17,Sin observacion
+222,30,1,2024-1,4.8,2.8,4.2,2024-01-24,In ullam reprehenderit consectetur quas ad dolorem.
+223,30,3,2024-1,1.7,2.0,2.8,2024-02-25,Sin observacion
+224,30,4,2024-1,2.5,4.7,2.5,2024-01-25,Exercitationem magnam enim quod architecto soluta rerum.
+225,30,5,2024-1,4.2,3.6,1.3,2024-01-18,Sin observacion
+226,30,6,2024-1,2.0,4.4,4.9,2024-02-02,Ipsa omnis voluptatem sapiente nemo.
+227,30,7,2024-1,3.3,1.6,2.4,2024-01-20,Repellat dicta sapiente ipsam deleniti.
+228,30,8,2024-1,1.5,3.8,1.3,2024-02-09,Sin observacion
+229,31,1,2024-1,4.3,3.7,4.3,2024-02-05,Est dolores similique cum.
+230,31,2,2024-1,1.4,3.7,3.0,2024-02-17,Sin observacion
+231,31,3,2024-1,1.9,4.8,2.9,2024-03-15,Sin observacion
+232,31,4,2024-1,2.2,4.2,3.0,2024-01-19,Sin observacion
+233,31,5,2024-1,1.2,2.3,4.1,2024-02-17,Sin observacion
+234,31,6,2024-1,1.7,3.8,3.5,2024-01-25,Provident soluta officia repellat.
+235,31,7,2024-1,2.6,3.7,2.0,2024-01-17,Sin observacion
+236,31,8,2024-1,4.1,1.9,2.0,2024-03-02,Labore autem delectus temporibus ducimus.
+237,32,1,2024-1,4.3,2.5,4.8,2024-03-12,Mollitia neque illum soluta placeat deserunt.
+238,32,2,2024-1,4.1,3.0,2.7,2024-02-02,Sin observacion
+239,32,3,2024-1,1.6,2.0,3.6,2024-02-22,Corporis qui quos inventore illo omnis nemo.
+240,32,4,2024-1,3.8,3.1,1.5,2024-01-21,Sin observacion
+241,32,5,2024-1,4.6,1.6,2.7,2024-02-12,Sint magnam amet.
+242,32,6,2024-1,4.5,4.7,2.7,2024-02-12,Sin observacion
+243,32,7,2024-1,5.0,2.5,1.1,2024-02-08,Necessitatibus officiis minus quaerat qui odio.
+244,32,8,2024-1,2.3,1.6,1.2,2024-02-25,Impedit facere beatae dicta.
+245,33,1,2024-1,1.6,3.8,2.8,2024-03-08,Sin observacion
+246,33,2,2024-1,1.9,1.6,4.8,2024-01-31,Quos voluptates perferendis ab temporibus molestias non sit.
+247,33,3,2024-1,2.2,2.2,1.2,2024-03-04,Sin observacion
+248,33,4,2024-1,1.3,4.3,3.0,2024-02-13,Sin observacion
+249,33,5,2024-1,2.0,1.6,2.7,2024-02-20,Atque minus maiores et.
+250,33,6,2024-1,1.7,3.7,3.1,2024-02-10,Sin observacion
+251,33,8,2024-1,5.0,3.2,2.6,2024-03-05,Sin observacion
+252,34,1,2024-1,2.0,1.1,4.2,2024-02-07,Sin observacion
+253,34,2,2024-1,1.4,3.3,4.0,2024-02-24,Sin observacion
+254,34,3,2024-1,4.3,1.7,4.1,2024-02-05,Sin observacion
+255,34,4,2024-1,1.7,1.5,3.9,2024-02-24,Molestias rem ipsa temporibus.
+256,34,5,2024-1,1.2,1.8,1.2,2024-01-27,Aliquam cum eius quam repellendus in blanditiis.
+257,34,6,2024-1,3.2,2.0,4.0,2024-03-07,Sin observacion
+258,34,7,2024-1,1.2,3.6,2.1,2024-03-04,Officia explicabo libero at earum quia.
+259,34,8,2024-1,4.0,4.6,2.5,2024-02-09,Aspernatur voluptatum sequi quod magnam non architecto aperiam.
+260,35,1,2024-1,2.5,4.2,2.1,2024-02-15,Sin observacion
+261,35,2,2024-1,3.4,4.3,3.2,2024-02-11,Sin observacion
+262,35,3,2024-1,2.2,2.8,3.9,2024-02-26,Sin observacion
+263,35,4,2024-1,1.2,4.5,2.4,2024-02-12,Nam quisquam earum facilis.
+264,35,5,2024-1,4.8,1.3,3.6,2024-03-05,Sin observacion
+265,35,6,2024-1,1.6,1.1,4.4,2024-02-27,Ducimus quo sint unde occaecati nam.
+266,35,7,2024-1,1.3,4.1,2.5,2024-01-23,Sin observacion
+267,35,8,2024-1,1.6,2.8,2.5,2024-02-22,Sin observacion
+268,36,1,2024-1,3.1,2.6,3.6,2024-01-23,Sin observacion
+269,36,2,2024-1,1.7,3.1,4.7,2024-03-02,Sin observacion
+270,36,3,2024-1,2.8,5.0,2.1,2024-02-29,Nulla recusandae blanditiis expedita.
+271,36,4,2024-1,1.5,1.3,1.7,2024-01-22,Aut dolorum occaecati nihil sequi.
+272,36,6,2024-1,4.9,3.7,3.8,2024-03-09,Sin observacion
+273,36,7,2024-1,4.4,3.8,4.7,2024-02-03,Beatae atque cupiditate magni.
+274,36,8,2024-1,1.9,4.9,4.2,2024-02-16,Sin observacion
+275,37,1,2024-1,3.2,2.5,4.2,2024-02-07,Sin observacion
+276,37,2,2024-1,1.3,2.6,3.9,2024-01-20,Sin observacion
+277,37,3,2024-1,4.3,1.3,4.9,2024-02-10,Facere accusantium eius quod praesentium veniam hic.
+278,37,4,2024-1,3.1,1.5,4.3,2024-02-27,Sin observacion
+279,37,5,2024-1,4.9,2.7,4.6,2024-03-04,Sin observacion
+280,37,6,2024-1,2.2,1.6,4.7,2024-01-24,Sin observacion
+281,37,7,2024-1,4.6,4.4,2.0,2024-02-17,In praesentium rem necessitatibus tempora.
+282,37,8,2024-1,3.5,3.5,1.4,2024-01-23,Natus minima odit illum iste dolor in voluptatem.
+283,38,1,2024-1,1.6,3.6,3.9,2024-02-21,Molestias in aspernatur quas ipsam aliquid exercitationem id.
+284,38,2,2024-1,1.2,4.5,1.3,2024-02-20,Consectetur ipsa debitis.
+285,38,3,2024-1,3.6,4.1,2.7,2024-01-31,Error autem repellat tenetur modi.
+286,38,4,2024-1,3.2,3.6,2.2,2024-02-24,Sin observacion
+287,38,5,2024-1,2.2,1.3,1.2,2024-02-09,Sin observacion
+288,38,6,2024-1,2.4,1.6,4.4,2024-01-28,Sin observacion
+289,38,8,2024-1,1.5,2.5,3.2,2024-02-09,Sin observacion
+290,39,1,2024-1,2.8,1.6,1.2,2024-02-01,Mollitia nam voluptatem rem at.
+291,39,2,2024-1,2.0,4.5,1.6,2024-02-10,Sin observacion
+292,39,3,2024-1,1.8,1.6,5.0,2024-02-04,Sin observacion
+293,39,4,2024-1,1.1,4.8,3.0,2024-02-15,Nemo quos vitae dolore excepturi fugiat nisi fugiat.
+294,39,5,2024-1,1.2,2.1,3.4,2024-02-06,Eligendi et eos exercitationem voluptatibus laborum repellat non.
+295,39,6,2024-1,3.1,4.4,2.7,2024-02-02,Fuga tempora maiores consectetur velit repudiandae incidunt.
+296,39,7,2024-1,2.6,1.2,1.2,2024-03-03,Sin observacion
+297,39,8,2024-1,1.3,3.0,4.1,2024-02-02,Sin observacion
+298,40,2,2024-1,1.5,1.4,2.5,2024-01-22,Neque provident aperiam consectetur placeat commodi.
+299,40,3,2024-1,4.0,1.8,3.0,2024-02-07,Sin observacion
+300,40,4,2024-1,3.9,4.2,3.1,2024-01-23,Sin observacion
+301,40,5,2024-1,2.3,3.5,1.7,2024-01-23,Quam nihil ducimus vero blanditiis.
+302,40,6,2024-1,3.4,3.0,3.0,2024-02-03,Sin observacion
+303,40,7,2024-1,4.3,2.5,3.7,2024-02-14,Cum est corrupti perferendis ad totam earum.
+304,40,8,2024-1,4.6,4.5,3.5,2024-03-05,Sin observacion
+305,41,1,2024-1,4.1,4.1,3.3,2024-02-25,Distinctio illo laudantium dolorum.
+306,41,2,2024-1,3.1,3.9,4.1,2024-01-25,Sin observacion
+307,41,3,2024-1,1.1,4.8,1.4,2024-01-30,Sin observacion
+308,41,4,2024-1,2.7,1.8,3.0,2024-01-24,Facilis blanditiis dicta ipsam corrupti sunt.
+309,41,5,2024-1,3.9,1.2,1.6,2024-03-09,Sin observacion
+310,41,6,2024-1,2.9,2.5,4.8,2024-02-26,Sin observacion
+311,41,7,2024-1,2.4,4.1,3.9,2024-02-18,Laboriosam quaerat veniam cumque.
+312,41,8,2024-1,2.9,4.8,2.1,2024-02-23,Sin observacion
+313,42,1,2024-1,4.1,3.8,3.8,2024-02-03,Sin observacion
+314,42,2,2024-1,4.7,4.2,2.1,2024-02-19,Sin observacion
+315,42,3,2024-1,4.6,2.6,2.4,2024-02-08,Facere natus dolorem corporis odit.
+316,42,4,2024-1,2.2,3.9,2.4,2024-01-17,Sin observacion
+317,42,5,2024-1,1.9,4.3,2.1,2024-02-14,Sin observacion
+318,42,6,2024-1,3.5,3.3,2.0,2024-01-21,Illo eveniet in ullam similique fugiat ipsum.
+319,42,7,2024-1,1.9,1.4,2.3,2024-02-24,Sin observacion
+320,42,8,2024-1,1.0,3.2,4.7,2024-01-23,Sin observacion
+321,43,1,2024-1,2.9,3.6,4.0,2024-03-11,Sin observacion
+322,43,2,2024-1,4.6,1.4,3.3,2024-01-18,Sin observacion
+323,43,3,2024-1,1.1,4.7,2.7,2024-03-14,Tempora ducimus sit.
+324,43,4,2024-1,5.0,2.6,3.0,2024-01-17,Earum facere repellat accusamus error.
+325,43,6,2024-1,1.1,2.2,3.4,2024-03-11,Nobis neque temporibus consequatur.
+326,43,7,2024-1,5.0,3.2,3.0,2024-02-13,Dolores ipsa neque harum.
+327,43,8,2024-1,2.1,4.2,2.3,2024-02-13,Qui ex corporis minus.
+328,44,1,2024-1,1.7,3.9,4.2,2024-02-29,Sin observacion
+329,44,2,2024-1,3.4,3.6,2.6,2024-01-26,Sin observacion
+330,44,3,2024-1,3.7,1.7,1.6,2024-02-09,Sin observacion
+331,44,4,2024-1,2.5,2.8,2.1,2024-01-31,Sin observacion
+332,44,5,2024-1,1.0,3.6,3.8,2024-02-20,Sin observacion
+333,44,6,2024-1,1.6,3.7,4.7,2024-02-03,A cupiditate quaerat deserunt eveniet sed.
+334,44,7,2024-1,1.5,4.7,2.2,2024-02-28,Voluptate voluptatem porro suscipit.
+335,44,8,2024-1,2.9,2.8,5.0,2024-01-23,Sin observacion
+336,45,1,2024-1,2.9,3.2,3.7,2024-03-13,Sin observacion
+337,45,2,2024-1,3.4,4.1,3.1,2024-03-03,Sin observacion
+338,45,3,2024-1,3.3,1.2,3.2,2024-03-13,Sin observacion
+339,45,4,2024-1,1.7,4.4,2.8,2024-01-24,Quis dicta alias veniam vel doloremque.
+340,45,5,2024-1,1.4,3.0,4.2,2024-02-15,Sin observacion
+341,45,6,2024-1,3.3,3.2,3.7,2024-02-13,Sin observacion
+342,45,7,2024-1,4.3,4.0,3.3,2024-01-31,Sin observacion
+343,45,8,2024-1,3.2,1.2,4.6,2024-01-19,Fuga hic voluptate tempora rerum.
+344,46,1,2024-1,2.6,4.1,4.1,2024-02-02,Soluta nam quod itaque numquam.
+345,46,2,2024-1,2.5,4.6,2.8,2024-02-10,Nam distinctio maxime ab.
+346,46,3,2024-1,3.7,3.6,3.2,2024-01-20,Ratione accusamus eaque fuga animi.
+347,46,4,2024-1,5.0,2.6,1.5,2024-01-26,Blanditiis eveniet voluptas quos magni quos.
+348,46,5,2024-1,1.1,2.2,3.7,2024-03-03,Sin observacion
+349,46,6,2024-1,1.9,2.8,1.6,2024-03-07,Sin observacion
+350,46,7,2024-1,1.5,4.2,2.7,2024-03-03,Beatae debitis dolorem dolores ab nobis amet.
+351,46,8,2024-1,2.0,1.3,3.4,2024-01-16,Sin observacion
+352,47,1,2024-1,1.2,4.0,2.6,2024-03-10,Sin observacion
+353,47,2,2024-1,4.1,1.6,5.0,2024-03-10,Sin observacion
+354,47,3,2024-1,2.3,3.4,3.7,2024-02-20,Sin observacion
+355,47,4,2024-1,4.9,3.1,2.7,2024-01-24,Sin observacion
+356,47,5,2024-1,4.5,4.6,3.5,2024-02-21,Sin observacion
+357,47,6,2024-1,4.8,3.7,4.1,2024-02-06,Sin observacion
+358,47,7,2024-1,2.2,1.7,3.2,2024-01-24,Sin observacion
+359,47,8,2024-1,3.8,4.2,4.7,2024-03-09,Sin observacion
+360,48,2,2024-1,2.6,2.0,2.3,2024-01-23,Sin observacion
+361,48,3,2024-1,1.4,3.9,1.8,2024-02-07,Sin observacion
+362,48,4,2024-1,1.2,1.3,4.2,2024-02-22,Sin observacion
+363,48,5,2024-1,2.9,4.5,2.3,2024-01-28,Eaque tempora ratione iusto accusantium quidem.
+364,48,6,2024-1,1.8,4.0,4.0,2024-03-14,Dolores nulla quo similique.
+365,48,7,2024-1,3.4,1.8,4.7,2024-02-28,Sin observacion
+366,48,8,2024-1,2.9,3.6,2.2,2024-02-08,Sin observacion
+367,49,1,2024-1,1.4,4.9,2.9,2024-02-13,Mollitia facere tempora excepturi asperiores ipsum.
+368,49,2,2024-1,2.3,1.2,4.5,2024-02-07,Quas impedit at esse animi natus vel.
+369,49,3,2024-1,4.7,3.3,2.7,2024-02-19,Sin observacion
+370,49,4,2024-1,3.3,2.0,3.2,2024-02-08,A ipsam in autem necessitatibus.
+371,49,5,2024-1,4.3,4.9,3.6,2024-03-03,Sin observacion
+372,49,6,2024-1,2.4,1.6,3.2,2024-03-05,Sin observacion
+373,49,7,2024-1,4.8,3.1,4.4,2024-02-25,Sin observacion
+374,49,8,2024-1,4.1,2.6,4.4,2024-01-18,Sin observacion
+375,50,1,2024-1,1.9,2.8,1.2,2024-01-15,Necessitatibus rem iusto voluptatibus quos consequuntur.
+376,50,2,2024-1,2.9,3.0,1.0,2024-03-13,Sin observacion
+377,50,3,2024-1,3.9,3.1,2.1,2024-02-17,Sin observacion
+378,50,4,2024-1,4.2,4.6,1.4,2024-02-11,Sin observacion
+379,50,5,2024-1,3.5,2.0,2.4,2024-01-27,Et occaecati modi nobis nisi corrupti.
+380,50,6,2024-1,2.8,2.0,3.8,2024-02-09,Sin observacion
+381,50,7,2024-1,3.6,4.4,4.0,2024-01-20,Sin observacion
+382,50,8,2024-1,2.9,3.5,3.8,2024-02-19,Sin observacion
+383,1,1,2024-2,4.1,3.3,4.4,2024-08-25,Sin observacion
+384,1,2,2024-2,1.9,4.6,3.8,2024-07-17,Sin observacion
+385,1,3,2024-2,1.3,4.7,4.6,2024-09-12,Sin observacion
+386,1,4,2024-2,4.4,1.1,1.8,2024-09-12,Sin observacion
+387,1,5,2024-2,2.6,1.3,1.6,2024-09-05,Sin observacion
+388,1,6,2024-2,3.7,3.2,2.5,2024-08-08,Sapiente accusamus aliquam qui ratione.
+389,1,7,2024-2,3.9,3.0,4.9,2024-08-28,Sin observacion
+390,1,8,2024-2,1.3,3.4,3.5,2024-09-06,Sin observacion
+391,2,2,2024-2,2.1,5.0,3.0,2024-08-24,Sin observacion
+392,2,3,2024-2,1.7,3.3,2.5,2024-08-11,Nihil neque nostrum sapiente.
+393,2,4,2024-2,3.9,1.3,1.6,2024-07-30,Ut amet sed.
+394,2,5,2024-2,2.6,2.4,1.4,2024-08-31,Porro impedit eligendi dignissimos suscipit.
+395,2,6,2024-2,2.1,1.5,1.7,2024-09-01,Sin observacion
+396,2,7,2024-2,1.4,1.4,3.2,2024-08-10,Sin observacion
+397,2,8,2024-2,2.5,2.2,2.6,2024-09-08,Sin observacion
+398,3,1,2024-2,5.0,2.0,3.1,2024-09-10,Amet iste provident totam.
+399,3,2,2024-2,2.2,3.0,1.3,2024-08-01,Sin observacion
+400,3,3,2024-2,4.1,2.4,4.8,2024-08-14,Voluptas placeat vel distinctio voluptates eius cum.
+401,3,4,2024-2,1.8,1.4,2.2,2024-08-23,Quasi maiores ab ab.
+402,3,5,2024-2,2.5,4.4,2.8,2024-08-23,Sin observacion
+403,3,6,2024-2,4.9,1.5,2.3,2024-08-25,Repellat laboriosam qui omnis inventore veritatis.
+404,3,7,2024-2,1.7,2.6,2.3,2024-08-04,Accusantium repudiandae totam dignissimos culpa.
+405,3,8,2024-2,4.1,2.3,2.1,2024-08-20,Necessitatibus facilis reiciendis soluta eligendi reiciendis porro.
+406,4,1,2024-2,3.3,3.4,3.2,2024-09-12,Sit eius aliquam similique exercitationem.
+407,4,2,2024-2,3.9,4.8,1.8,2024-09-13,Necessitatibus neque facilis sint eaque vero et labore.
+408,4,3,2024-2,4.3,4.2,2.6,2024-07-19,Sin observacion
+409,4,4,2024-2,2.0,1.6,2.7,2024-07-30,Sin observacion
+410,4,5,2024-2,2.9,2.6,3.0,2024-08-22,Perferendis tempora fugiat ab.
+411,4,6,2024-2,1.1,4.9,3.8,2024-08-18,Reprehenderit blanditiis deleniti ea officiis culpa.
+412,4,7,2024-2,1.3,4.1,3.6,2024-09-11,Sin observacion
+413,4,8,2024-2,3.3,3.6,3.6,2024-07-17,Velit earum nobis distinctio minima.
+414,5,1,2024-2,2.7,1.0,2.0,2024-09-03,Sin observacion
+415,5,2,2024-2,3.8,1.9,2.5,2024-08-21,Sin observacion
+416,5,3,2024-2,3.0,2.4,1.1,2024-08-28,Sin observacion
+417,5,4,2024-2,1.5,4.8,1.6,2024-07-20,Sin observacion
+418,5,5,2024-2,3.1,2.4,1.4,2024-07-28,Iure at debitis.
+419,5,6,2024-2,2.2,4.2,1.5,2024-07-19,Facere nemo occaecati enim.
+420,5,7,2024-2,4.2,4.7,4.0,2024-08-27,Sin observacion
+421,5,8,2024-2,3.2,4.8,1.9,2024-08-05,Sin observacion
+422,6,1,2024-2,3.6,2.6,3.9,2024-08-24,Distinctio ratione necessitatibus voluptatibus ea.
+423,6,2,2024-2,2.6,3.8,1.8,2024-08-11,Placeat nobis nesciunt quia.
+424,6,3,2024-2,3.3,4.2,3.1,2024-07-19,Sin observacion
+425,6,4,2024-2,2.0,4.5,3.1,2024-07-22,Omnis dolores nesciunt veniam reiciendis doloremque minus.
+426,6,5,2024-2,2.6,1.5,2.4,2024-08-23,Sin observacion
+427,6,6,2024-2,3.8,2.2,3.5,2024-08-27,Sin observacion
+428,6,7,2024-2,2.0,1.5,2.5,2024-07-22,Sin observacion
+429,6,8,2024-2,1.6,2.5,1.7,2024-08-22,Itaque tempora modi pariatur quasi eligendi.
+430,7,1,2024-2,4.7,1.7,1.7,2024-08-25,Sin observacion
+431,7,2,2024-2,2.8,1.2,2.4,2024-09-06,Sin observacion
+432,7,3,2024-2,2.5,3.2,3.6,2024-09-05,Sin observacion
+433,7,4,2024-2,4.4,3.0,1.3,2024-08-29,Sin observacion
+434,7,5,2024-2,1.1,1.9,2.2,2024-08-02,Suscipit sed placeat iusto.
+435,7,6,2024-2,4.1,3.2,1.5,2024-09-02,Sin observacion
+436,7,7,2024-2,5.0,3.2,4.0,2024-09-05,Modi iste blanditiis doloremque incidunt quisquam magnam.
+437,7,8,2024-2,5.0,1.4,4.3,2024-07-28,Suscipit quam sunt consequuntur explicabo.
+438,8,1,2024-2,2.8,2.4,4.3,2024-07-17,Sin observacion
+439,8,3,2024-2,1.8,4.0,3.8,2024-07-30,Accusamus voluptates iure deleniti dignissimos.
+440,8,4,2024-2,1.7,1.6,1.8,2024-08-11,Sin observacion
+441,8,5,2024-2,3.1,3.4,1.7,2024-08-06,Et rerum consequatur provident quas rerum.
+442,8,6,2024-2,2.1,4.4,4.9,2024-08-20,Suscipit nobis assumenda harum facere aliquid.
+443,8,7,2024-2,4.1,4.7,5.0,2024-09-01,Ipsa soluta eligendi amet.
+444,8,8,2024-2,1.5,1.6,2.3,2024-09-08,Sin observacion
+445,9,1,2024-2,3.0,3.3,2.1,2024-08-09,Sin observacion
+446,9,2,2024-2,4.2,4.1,2.6,2024-08-24,Id nemo libero provident ea aspernatur.
+447,9,3,2024-2,2.5,4.8,2.3,2024-09-09,Sin observacion
+448,9,4,2024-2,1.4,4.9,3.5,2024-08-30,Ipsum non animi unde possimus.
+449,9,5,2024-2,3.1,1.9,2.7,2024-09-03,Sin observacion
+450,9,6,2024-2,2.1,3.2,1.5,2024-09-06,Laudantium dolorum explicabo aut placeat deleniti veniam.
+451,9,7,2024-2,3.7,1.2,1.4,2024-09-10,Possimus eveniet vitae ab expedita nisi quas.
+452,9,8,2024-2,4.7,1.6,2.8,2024-07-22,Ratione consectetur eos accusantium vel maiores quidem magnam.
+453,10,1,2024-2,4.6,4.5,2.2,2024-08-28,Corrupti atque cumque sit quidem.
+454,10,2,2024-2,3.6,2.0,2.5,2024-07-20,Pariatur unde eveniet id magnam voluptatibus amet.
+455,10,3,2024-2,3.5,3.9,4.0,2024-08-09,Sin observacion
+456,10,4,2024-2,1.0,2.9,1.5,2024-07-21,Sin observacion
+457,10,5,2024-2,1.0,2.4,1.5,2024-07-15,Sit hic saepe quaerat quibusdam dolor.
+458,10,6,2024-2,1.3,2.5,3.9,2024-08-14,Sin observacion
+459,10,7,2024-2,2.2,2.5,4.3,2024-09-09,Sint ab nobis sit.
+460,10,8,2024-2,1.6,3.1,1.0,2024-08-27,Porro commodi vel iure non reprehenderit.
+461,11,1,2024-2,1.9,4.0,4.7,2024-08-30,Eveniet nisi pariatur sit voluptatibus.
+462,11,2,2024-2,1.3,1.4,4.0,2024-07-28,Sin observacion
+463,11,3,2024-2,2.3,1.6,2.1,2024-08-11,Sin observacion
+464,11,4,2024-2,3.9,2.1,4.8,2024-08-22,Sin observacion
+465,11,5,2024-2,2.2,3.1,3.0,2024-09-09,Saepe porro natus cupiditate.
+466,11,6,2024-2,4.1,4.2,2.0,2024-07-18,Sin observacion
+467,11,7,2024-2,3.4,3.1,4.9,2024-08-24,Quam accusantium expedita mollitia.
+468,11,8,2024-2,2.5,4.4,2.7,2024-07-23,Sin observacion
+469,12,1,2024-2,4.8,4.1,1.1,2024-08-14,Sin observacion
+470,12,2,2024-2,4.7,4.8,2.6,2024-07-17,Sin observacion
+471,12,3,2024-2,2.7,3.8,1.3,2024-09-02,Sin observacion
+472,12,4,2024-2,1.3,1.3,4.7,2024-08-01,Quos hic nulla repellat.
+473,12,5,2024-2,2.6,3.5,4.3,2024-08-04,A sit tempora earum dicta aliquam.
+474,12,6,2024-2,2.7,4.8,2.0,2024-08-28,Sin observacion
+475,12,7,2024-2,2.8,3.4,2.2,2024-07-22,Aperiam mollitia recusandae quos et.
+476,12,8,2024-2,1.1,1.5,1.0,2024-07-22,Sin observacion
+477,13,1,2024-2,4.1,3.9,1.7,2024-08-17,Sin observacion
+478,13,2,2024-2,3.9,1.5,4.6,2024-08-01,Sin observacion
+479,13,3,2024-2,1.3,3.8,3.3,2024-08-17,Sin observacion
+480,13,4,2024-2,1.2,4.4,1.7,2024-08-07,Sin observacion
+481,13,5,2024-2,3.3,3.9,1.9,2024-09-10,Sin observacion
+482,13,6,2024-2,1.0,1.2,2.5,2024-09-08,Voluptatibus error ipsum aut ex eius sit.
+483,13,7,2024-2,1.1,4.2,3.9,2024-09-07,Beatae nostrum quos enim sint.
+484,13,8,2024-2,2.7,3.9,2.1,2024-07-30,Sin observacion
+485,14,1,2024-2,3.7,1.2,1.9,2024-08-16,Sin observacion
+486,14,2,2024-2,1.3,2.9,2.1,2024-08-09,Aspernatur autem commodi officiis voluptates.
+487,14,3,2024-2,2.8,2.5,2.2,2024-08-19,Eum quae quisquam molestiae.
+488,14,4,2024-2,2.9,3.4,3.0,2024-07-30,Recusandae ullam totam amet consectetur suscipit.
+489,14,5,2024-2,3.2,4.2,1.6,2024-09-10,Quae aliquam molestias non rerum.
+490,14,6,2024-2,2.4,4.4,4.5,2024-08-18,Id quo fugiat saepe.
+491,14,7,2024-2,2.5,4.0,2.2,2024-08-26,Sin observacion
+492,15,1,2024-2,4.9,1.6,2.1,2024-07-18,Sin observacion
+493,15,2,2024-2,3.1,3.8,2.5,2024-09-07,Reiciendis ea in repudiandae.
+494,15,3,2024-2,3.0,3.5,2.6,2024-07-21,Sin observacion
+495,15,4,2024-2,4.9,1.9,2.0,2024-08-26,Sin observacion
+496,15,5,2024-2,4.3,2.3,2.8,2024-08-28,Sin observacion
+497,15,6,2024-2,4.1,3.3,1.6,2024-07-23,Sin observacion
+498,15,7,2024-2,1.5,2.4,4.1,2024-08-10,Sin observacion
+499,15,8,2024-2,1.5,1.6,3.7,2024-09-07,Itaque unde quisquam tempora.
+500,16,1,2024-2,1.9,4.4,1.6,2024-07-17,Tempora consequatur odit vitae eveniet.
+501,16,3,2024-2,3.7,2.0,5.0,2024-07-18,Sin observacion
+502,16,4,2024-2,3.2,3.2,1.4,2024-08-12,Sin observacion
+503,16,5,2024-2,1.0,4.3,4.9,2024-07-22,Sin observacion
+504,16,6,2024-2,3.7,4.8,1.3,2024-08-07,Sin observacion
+505,16,7,2024-2,1.1,1.3,4.6,2024-07-19,Sin observacion
+506,16,8,2024-2,4.4,4.2,1.5,2024-09-10,Enim illo dolorum consequuntur cum.
+507,17,1,2024-2,3.3,4.3,2.6,2024-09-12,Sin observacion
+508,17,2,2024-2,2.4,4.6,2.1,2024-07-26,Sin observacion
+509,17,3,2024-2,3.5,2.0,2.2,2024-08-23,Sin observacion
+510,17,4,2024-2,1.4,2.5,2.7,2024-07-18,Libero recusandae rerum.
+511,17,5,2024-2,3.5,4.2,4.2,2024-07-30,Sapiente unde animi at placeat ipsum nostrum.
+512,17,6,2024-2,2.9,4.1,2.4,2024-08-06,Sin observacion
+513,17,7,2024-2,1.7,2.3,1.9,2024-08-01,Perferendis illum excepturi optio necessitatibus.
+514,17,8,2024-2,4.2,2.9,2.4,2024-07-18,Sin observacion
+515,18,1,2024-2,1.4,3.6,2.1,2024-07-25,Molestiae sapiente eos quam incidunt labore.
+516,18,2,2024-2,4.1,4.8,3.3,2024-07-18,Ad expedita dolorem quisquam amet delectus.
+517,18,3,2024-2,4.4,4.4,1.7,2024-09-12,Sin observacion
+518,18,4,2024-2,2.4,3.4,3.8,2024-08-28,Sin observacion
+519,18,5,2024-2,3.3,1.8,5.0,2024-07-24,Laboriosam maxime corrupti sed ut.
+520,18,6,2024-2,1.7,1.2,1.2,2024-08-03,Porro temporibus suscipit repellat repellat.
+521,18,7,2024-2,1.0,4.7,1.8,2024-08-14,Sin observacion
+522,18,8,2024-2,4.2,4.5,1.2,2024-09-11,Sin observacion
+523,19,1,2024-2,4.1,4.4,4.4,2024-07-24,Doloremque quod dolorum.
+524,19,2,2024-2,3.6,3.3,2.3,2024-09-13,Sin observacion
+525,19,4,2024-2,4.2,4.8,3.6,2024-08-11,Sin observacion
+526,19,6,2024-2,3.5,2.4,3.7,2024-09-12,Pariatur expedita animi vitae minus asperiores eius hic.
+527,19,7,2024-2,3.8,1.5,3.9,2024-08-30,Magni amet nam vero.
+528,19,8,2024-2,4.4,4.1,3.3,2024-08-09,Sin observacion
+529,20,1,2024-2,4.9,1.9,3.3,2024-09-04,Enim dicta adipisci odio ducimus soluta.
+530,20,2,2024-2,1.3,2.4,2.3,2024-08-31,Amet maxime ducimus nemo placeat quam.
+531,20,4,2024-2,3.6,4.5,2.8,2024-08-26,Sin observacion
+532,20,5,2024-2,2.4,4.1,3.9,2024-07-19,Sin observacion
+533,20,6,2024-2,4.9,4.5,3.0,2024-08-10,Sin observacion
+534,20,7,2024-2,4.3,4.2,3.3,2024-07-21,Dolore maxime laborum vel.
+535,20,8,2024-2,1.3,4.4,2.2,2024-08-12,Sin observacion
+536,21,2,2024-2,4.6,1.6,1.3,2024-07-25,Sunt in rem recusandae illum reprehenderit deleniti.
+537,21,4,2024-2,4.6,3.8,2.7,2024-08-23,Sunt saepe quasi.
+538,21,5,2024-2,1.6,1.4,1.8,2024-08-11,Sin observacion
+539,21,6,2024-2,4.7,3.2,3.6,2024-08-30,Sin observacion
+540,21,7,2024-2,3.3,4.4,1.6,2024-08-09,Sin observacion
+541,21,8,2024-2,4.3,3.5,2.9,2024-08-02,Sin observacion
+542,22,1,2024-2,2.2,1.3,4.4,2024-08-24,Sin observacion
+543,22,2,2024-2,4.6,2.1,3.6,2024-08-15,Sin observacion
+544,22,3,2024-2,2.5,2.8,2.1,2024-08-08,Sin observacion
+545,22,4,2024-2,3.3,1.6,3.8,2024-08-01,Sin observacion
+546,22,5,2024-2,3.2,4.9,3.4,2024-09-04,Sin observacion
+547,22,6,2024-2,3.1,4.9,3.7,2024-09-05,Impedit suscipit consequuntur aperiam.
+548,22,7,2024-2,2.9,1.3,4.6,2024-07-30,Sunt minus fugiat.
+549,22,8,2024-2,3.1,3.3,4.9,2024-09-10,Sin observacion
+550,23,1,2024-2,1.7,4.9,4.9,2024-08-12,Placeat quisquam omnis fuga quia quibusdam.
+551,23,2,2024-2,1.3,3.7,1.8,2024-08-11,Quam quam esse inventore soluta.
+552,23,3,2024-2,2.0,4.6,4.7,2024-08-22,Sin observacion
+553,23,4,2024-2,3.2,4.4,3.1,2024-08-09,Nostrum ullam a.
+554,23,5,2024-2,3.5,3.1,2.7,2024-08-28,Sin observacion
+555,23,6,2024-2,3.3,4.9,1.4,2024-08-21,Sin observacion
+556,23,7,2024-2,2.1,3.1,2.4,2024-09-03,Sin observacion
+557,23,8,2024-2,3.3,2.9,1.7,2024-08-15,Sin observacion
+558,24,1,2024-2,3.8,1.2,4.6,2024-08-27,Sin observacion
+559,24,2,2024-2,2.9,2.1,2.5,2024-08-31,Sin observacion
+560,24,3,2024-2,2.1,3.0,3.8,2024-08-03,Sin observacion
+561,24,4,2024-2,2.2,4.0,4.1,2024-07-23,Sin observacion
+562,24,5,2024-2,3.6,1.8,1.8,2024-08-22,Voluptas consequuntur quas quidem est assumenda.
+563,24,6,2024-2,3.1,2.5,1.2,2024-09-01,Quod illum quisquam consequatur aliquam animi sint.
+564,24,7,2024-2,3.0,1.5,4.4,2024-08-29,Sapiente rerum nemo qui mollitia id.
+565,24,8,2024-2,4.5,1.8,1.2,2024-07-27,Sin observacion
+566,25,1,2024-2,3.8,2.1,4.3,2024-08-07,Sin observacion
+567,25,2,2024-2,3.7,2.0,3.0,2024-07-22,Sin observacion
+568,25,4,2024-2,2.4,1.7,4.6,2024-08-19,Magni sint placeat.
+569,25,5,2024-2,1.1,1.2,4.4,2024-08-02,Esse possimus nulla possimus.
+570,25,6,2024-2,3.6,3.7,2.1,2024-07-29,Sin observacion
+571,25,7,2024-2,4.9,3.7,2.9,2024-09-02,Sin observacion
+572,25,8,2024-2,1.0,2.0,4.2,2024-09-04,Sin observacion
+573,26,2,2024-2,4.6,4.4,2.8,2024-08-11,Sin observacion
+574,26,3,2024-2,4.3,2.6,1.4,2024-08-17,Sin observacion
+575,26,4,2024-2,4.4,3.2,3.4,2024-09-06,Sin observacion
+576,26,5,2024-2,1.3,5.0,3.6,2024-08-14,Id suscipit fugit atque aut iste quos.
+577,26,6,2024-2,4.8,3.6,1.8,2024-08-29,Sin observacion
+578,26,7,2024-2,4.2,4.2,3.4,2024-07-18,Soluta sit ad doloremque quae.
+579,26,8,2024-2,1.1,3.0,2.2,2024-08-30,Ipsum nesciunt corrupti provident sit vero.
+580,27,1,2024-2,1.1,3.8,3.3,2024-08-31,Sin observacion
+581,27,2,2024-2,3.7,3.6,2.9,2024-07-29,Ipsa natus eius nulla.
+582,27,3,2024-2,4.4,4.4,4.5,2024-08-03,Sin observacion
+583,27,4,2024-2,4.0,3.9,3.2,2024-07-23,Odio repellat facilis distinctio voluptate.
+584,27,5,2024-2,2.3,1.4,2.4,2024-09-10,Quaerat vitae voluptates consectetur excepturi molestias a.
+585,27,6,2024-2,4.5,2.5,3.3,2024-09-03,Sin observacion
+586,27,7,2024-2,4.5,3.3,4.8,2024-07-18,Sin observacion
+587,27,8,2024-2,1.5,3.7,3.1,2024-08-16,Sin observacion
+588,28,1,2024-2,1.5,1.8,2.6,2024-07-24,Sin observacion
+589,28,2,2024-2,1.6,4.4,1.7,2024-08-13,Sin observacion
+590,28,3,2024-2,2.3,1.2,2.8,2024-07-26,Sin observacion
+591,28,4,2024-2,4.1,3.0,4.1,2024-08-20,Sin observacion
+592,28,5,2024-2,2.7,2.7,2.9,2024-08-24,Sin observacion
+593,28,6,2024-2,2.5,1.1,2.3,2024-08-30,Architecto ullam exercitationem amet impedit ullam.
+594,28,7,2024-2,1.0,3.9,1.9,2024-08-27,Nisi minus eligendi eligendi.
+595,28,8,2024-2,2.5,3.4,1.7,2024-07-21,Aperiam veritatis autem ea dolorem.
+596,29,1,2024-2,2.8,3.1,3.1,2024-08-02,Sin observacion
+597,29,2,2024-2,2.4,4.6,2.4,2024-07-23,Sin observacion
+598,29,3,2024-2,4.2,1.1,1.9,2024-09-11,Ullam earum quidem nesciunt autem sint quis suscipit.
+599,29,4,2024-2,3.4,1.7,2.5,2024-07-16,Laudantium ab ipsam molestias dolore.
+600,29,5,2024-2,3.6,4.1,3.5,2024-09-09,Sin observacion
+601,29,6,2024-2,3.6,1.1,3.8,2024-07-21,Sin observacion
+602,29,7,2024-2,2.0,3.8,1.8,2024-08-19,Excepturi sint quis nulla rem voluptatibus.
+603,29,8,2024-2,3.6,3.6,2.1,2024-08-10,Ipsam sed accusamus a.
+604,30,1,2024-2,4.6,3.0,3.5,2024-09-06,Sin observacion
+605,30,2,2024-2,1.8,1.8,2.1,2024-08-15,Sin observacion
+606,30,3,2024-2,2.6,1.6,3.2,2024-08-29,Sapiente accusantium repellendus tenetur non amet nisi.
+607,30,4,2024-2,2.3,1.0,3.7,2024-08-14,Ipsam ipsam ut numquam sapiente cum.
+608,30,5,2024-2,3.0,4.8,4.1,2024-08-26,Sin observacion
+609,30,6,2024-2,2.0,1.9,5.0,2024-09-10,Sin observacion
+610,30,7,2024-2,4.3,4.5,4.4,2024-07-21,Sin observacion
+611,30,8,2024-2,4.0,1.4,4.0,2024-08-11,Sin observacion
+612,31,1,2024-2,3.6,2.3,4.6,2024-08-26,Nulla vero corporis et eius quibusdam.
+613,31,2,2024-2,1.4,4.3,1.7,2024-08-30,Sin observacion
+614,31,4,2024-2,3.8,2.9,2.7,2024-08-08,Officia quos ducimus et consequuntur a.
+615,31,5,2024-2,3.8,1.2,4.8,2024-07-23,Sin observacion
+616,31,6,2024-2,2.9,3.3,2.8,2024-08-21,Sunt in neque dolore tempora.
+617,31,7,2024-2,1.1,3.7,4.4,2024-08-23,Doloribus soluta autem quae.
+618,31,8,2024-2,3.0,4.6,2.8,2024-09-11,Sin observacion
+619,32,1,2024-2,3.8,3.7,4.1,2024-07-15,Sin observacion
+620,32,2,2024-2,4.5,3.1,3.8,2024-08-26,Odit quia inventore quia.
+621,32,3,2024-2,2.0,2.4,3.7,2024-08-30,Sin observacion
+622,32,4,2024-2,4.6,3.5,1.0,2024-08-19,Totam praesentium veniam iusto error voluptates.
+623,32,5,2024-2,4.4,4.5,1.3,2024-08-14,Sin observacion
+624,32,6,2024-2,1.2,1.9,3.6,2024-08-01,Sin observacion
+625,32,7,2024-2,2.8,3.3,1.4,2024-08-13,Sin observacion
+626,32,8,2024-2,4.0,1.1,2.6,2024-08-15,Sin observacion
+627,33,1,2024-2,1.4,3.4,3.5,2024-09-05,Sin observacion
+628,33,2,2024-2,3.6,2.8,2.4,2024-07-28,Accusantium ipsa quasi nobis in quas ipsa.
+629,33,3,2024-2,2.8,3.2,3.5,2024-09-07,Sin observacion
+630,33,4,2024-2,2.8,1.4,3.6,2024-08-29,Sin observacion
+631,33,5,2024-2,4.9,2.2,3.1,2024-08-24,Autem neque dolor quibusdam molestias sequi.
+632,33,6,2024-2,3.0,4.3,4.0,2024-07-25,Sin observacion
+633,33,7,2024-2,1.8,4.7,2.6,2024-07-27,Sin observacion
+634,33,8,2024-2,2.4,4.0,1.2,2024-08-29,Expedita delectus a quo incidunt tenetur illum vero.
+635,34,1,2024-2,4.1,2.8,3.6,2024-07-22,Reprehenderit quibusdam maxime ex quo deleniti.
+636,34,2,2024-2,1.0,3.9,3.2,2024-08-15,Sin observacion
+637,34,3,2024-2,3.0,4.7,1.7,2024-09-12,Sin observacion
+638,34,4,2024-2,1.4,3.6,3.4,2024-07-23,Sin observacion
+639,34,5,2024-2,4.9,4.7,4.0,2024-08-10,Sin observacion
+640,34,8,2024-2,1.6,3.4,4.5,2024-07-23,Sin observacion
+641,35,1,2024-2,4.4,3.8,4.7,2024-08-19,Dolor molestiae id animi exercitationem animi.
+642,35,2,2024-2,3.9,3.7,4.7,2024-08-23,Sin observacion
+643,35,3,2024-2,3.0,3.8,2.3,2024-07-26,Sin observacion
+644,35,4,2024-2,3.3,4.8,3.8,2024-08-14,Eum culpa ex exercitationem omnis.
+645,35,5,2024-2,2.1,4.4,4.2,2024-08-18,Sin observacion
+646,35,6,2024-2,1.2,1.2,2.1,2024-07-24,Sunt ad voluptas similique.
+647,35,8,2024-2,4.4,3.8,2.2,2024-07-24,Quam sunt ipsam enim architecto sunt dolores.
+648,36,1,2024-2,2.8,3.5,3.7,2024-09-05,Sin observacion
+649,36,2,2024-2,3.2,2.0,4.1,2024-08-25,Expedita atque quae blanditiis dignissimos numquam accusamus veniam.
+650,36,3,2024-2,1.2,2.5,2.7,2024-08-26,Quisquam incidunt adipisci aspernatur.
+651,36,4,2024-2,1.2,4.0,1.8,2024-08-19,Amet quae quos hic possimus possimus.
+652,36,5,2024-2,4.3,4.6,3.8,2024-08-12,Dolore voluptate commodi eligendi fugiat aliquid.
+653,36,6,2024-2,4.0,1.8,3.9,2024-08-18,Sin observacion
+654,36,7,2024-2,1.3,4.8,3.9,2024-08-27,Sin observacion
+655,36,8,2024-2,3.2,1.5,3.3,2024-08-01,Sin observacion
+656,37,1,2024-2,4.7,1.2,4.7,2024-08-29,Sin observacion
+657,37,2,2024-2,3.5,3.6,3.0,2024-08-24,Sin observacion
+658,37,3,2024-2,3.8,3.1,4.8,2024-09-03,Sin observacion
+659,37,4,2024-2,2.7,3.1,1.4,2024-07-25,Sin observacion
+660,37,5,2024-2,2.3,2.2,4.8,2024-08-05,Accusantium quaerat harum consequuntur enim.
+661,37,6,2024-2,4.3,4.9,1.0,2024-08-19,Autem deserunt possimus assumenda.
+662,37,7,2024-2,3.6,4.7,2.0,2024-09-10,Sin observacion
+663,37,8,2024-2,4.7,4.8,2.5,2024-08-08,Sin observacion
+664,38,1,2024-2,3.1,4.1,3.1,2024-09-11,Sin observacion
+665,38,2,2024-2,4.6,1.8,3.1,2024-08-02,Delectus rem sapiente dignissimos illo.
+666,38,3,2024-2,3.2,1.0,1.3,2024-09-02,Pariatur illo alias dolores non molestias inventore.
+667,38,4,2024-2,3.7,4.3,1.8,2024-09-08,Rerum accusantium quis asperiores cupiditate velit.
+668,38,5,2024-2,4.1,3.6,4.8,2024-08-31,Quos eveniet perspiciatis dignissimos dolor nobis autem.
+669,38,6,2024-2,3.9,1.2,1.3,2024-08-13,Sin observacion
+670,38,7,2024-2,3.3,1.9,2.0,2024-07-19,Sin observacion
+671,38,8,2024-2,2.3,2.6,1.5,2024-08-11,Sin observacion
+672,39,1,2024-2,4.0,3.3,3.8,2024-07-19,Sin observacion
+673,39,2,2024-2,2.2,3.7,3.4,2024-07-21,Sin observacion
+674,39,3,2024-2,2.6,3.6,2.9,2024-08-08,Sin observacion
+675,39,4,2024-2,4.2,4.4,2.2,2024-08-09,Ratione necessitatibus autem illo.
+676,39,5,2024-2,4.7,4.2,3.9,2024-09-09,Sin observacion
+677,39,6,2024-2,4.5,1.6,1.2,2024-08-19,Sin observacion
+678,39,7,2024-2,4.8,2.2,4.0,2024-08-19,Cumque natus quisquam inventore voluptate similique blanditiis.
+679,39,8,2024-2,4.6,4.4,1.6,2024-08-10,Sin observacion
+680,40,1,2024-2,1.8,1.7,4.2,2024-07-31,Quia distinctio culpa omnis illum.
+681,40,2,2024-2,5.0,3.2,3.6,2024-09-12,Sin observacion
+682,40,3,2024-2,1.4,3.9,2.9,2024-07-31,Sin observacion
+683,40,4,2024-2,1.9,2.1,1.3,2024-08-25,Sin observacion
+684,40,5,2024-2,3.5,2.2,3.3,2024-08-05,Sin observacion
+685,40,6,2024-2,4.8,1.7,2.3,2024-08-04,Molestias quidem incidunt.
+686,40,7,2024-2,2.7,4.4,1.5,2024-08-25,Quas earum nam doloremque nostrum explicabo aliquid.
+687,40,8,2024-2,2.8,4.1,2.9,2024-08-13,Sin observacion
+688,41,1,2024-2,4.4,4.4,1.6,2024-07-20,Sin observacion
+689,41,2,2024-2,3.5,3.9,4.6,2024-09-09,Alias sunt illo delectus facere ad quam accusantium.
+690,41,3,2024-2,3.3,2.6,3.4,2024-09-05,Tempora recusandae reprehenderit quae.
+691,41,4,2024-2,4.6,3.2,3.6,2024-08-18,Sin observacion
+692,41,5,2024-2,4.1,3.9,2.2,2024-09-10,Sin observacion
+693,41,6,2024-2,2.5,1.0,2.0,2024-08-09,Pariatur quod totam omnis similique adipisci.
+694,41,8,2024-2,3.1,2.8,1.7,2024-09-01,Culpa magnam reprehenderit cupiditate.
+695,42,1,2024-2,3.9,2.9,2.4,2024-07-24,Sin observacion
+696,42,2,2024-2,2.1,1.9,3.7,2024-07-19,Sin observacion
+697,42,3,2024-2,2.9,2.8,1.2,2024-08-08,Optio porro beatae ab aliquid ipsa.
+698,42,4,2024-2,4.9,3.5,2.1,2024-08-29,Magni harum dolore culpa dignissimos.
+699,42,5,2024-2,1.7,3.6,2.5,2024-08-20,Repudiandae eos odit esse.
+700,42,6,2024-2,2.0,4.9,1.9,2024-08-17,Sin observacion
+701,42,7,2024-2,2.9,2.9,3.4,2024-08-06,Sin observacion
+702,42,8,2024-2,1.9,3.1,2.1,2024-07-25,Sin observacion
+703,43,1,2024-2,3.9,1.5,1.9,2024-08-22,Ipsum nihil repellendus molestiae facere eos tenetur.
+704,43,2,2024-2,3.7,2.9,3.4,2024-08-14,Sit corporis dolor culpa cupiditate magnam.
+705,43,3,2024-2,1.2,3.3,1.6,2024-07-30,Magnam esse accusantium expedita.
+706,43,4,2024-2,1.6,1.7,4.7,2024-08-20,Sin observacion
+707,43,5,2024-2,3.6,4.5,3.9,2024-08-20,Natus architecto quisquam possimus excepturi numquam ullam.
+708,43,6,2024-2,2.8,5.0,4.5,2024-07-28,Sin observacion
+709,43,7,2024-2,1.6,3.3,4.1,2024-08-22,Molestias nam commodi porro provident.
+710,43,8,2024-2,3.9,2.4,2.8,2024-07-25,Sin observacion
+711,44,1,2024-2,1.5,1.1,3.1,2024-08-08,Esse itaque consequatur.
+712,44,2,2024-2,1.6,1.4,2.9,2024-09-05,Animi ad adipisci non repudiandae ratione eos.
+713,44,3,2024-2,3.1,4.0,1.4,2024-09-03,Quas eligendi consectetur sequi.
+714,44,4,2024-2,4.3,4.6,4.1,2024-08-18,Odio corrupti eum at eaque alias sunt aperiam.
+715,44,5,2024-2,4.5,3.8,2.7,2024-08-07,Expedita dicta soluta.
+716,44,6,2024-2,2.5,3.4,4.0,2024-09-02,Eos accusantium accusantium sapiente distinctio.
+717,44,7,2024-2,2.7,2.0,4.1,2024-07-21,Ab numquam cum et aliquid ab.
+718,44,8,2024-2,4.5,2.6,1.8,2024-08-22,Adipisci libero minus quidem quia ipsum.
+719,45,1,2024-2,3.1,3.1,2.5,2024-08-20,Sin observacion
+720,45,2,2024-2,2.4,1.6,3.6,2024-08-10,Sin observacion
+721,45,3,2024-2,3.3,3.4,5.0,2024-08-11,Sin observacion
+722,45,4,2024-2,4.1,2.9,2.5,2024-08-19,Sin observacion
+723,45,5,2024-2,3.3,4.1,2.6,2024-08-03,Sin observacion
+724,45,6,2024-2,4.0,2.8,3.8,2024-07-22,Sin observacion
+725,45,7,2024-2,4.1,4.2,3.5,2024-08-09,Tenetur ea nulla facere quam quasi.
+726,45,8,2024-2,4.9,1.0,1.4,2024-08-08,Sin observacion
+727,46,1,2024-2,1.4,2.1,2.5,2024-08-11,Eveniet numquam eaque doloribus.
+728,46,2,2024-2,4.9,3.5,3.1,2024-09-12,Porro similique dolorem quo.
+729,46,3,2024-2,4.1,1.7,3.0,2024-09-13,Sin observacion
+730,46,4,2024-2,4.2,2.1,1.1,2024-09-12,Sin observacion
+731,46,5,2024-2,3.5,3.7,2.4,2024-07-29,Nihil repellat quas unde.
+732,46,7,2024-2,4.1,2.4,2.6,2024-08-01,Sin observacion
+733,46,8,2024-2,3.8,4.7,3.2,2024-08-31,Aspernatur aspernatur similique voluptas accusamus magnam quas laudantium.
+734,47,1,2024-2,2.4,4.9,2.1,2024-08-21,Corrupti necessitatibus ab atque possimus voluptatibus quae.
+735,47,2,2024-2,2.6,1.0,1.7,2024-09-12,Sin observacion
+736,47,3,2024-2,2.2,4.8,4.2,2024-08-16,Ipsa consequuntur repellat atque.
+737,47,4,2024-2,4.2,2.0,2.8,2024-09-05,Sin observacion
+738,47,5,2024-2,4.0,4.8,2.8,2024-07-30,Sin observacion
+739,47,6,2024-2,2.9,2.0,2.5,2024-07-16,Totam molestias mollitia.
+740,47,7,2024-2,1.9,2.3,4.8,2024-08-28,Sin observacion
+741,47,8,2024-2,2.1,2.1,2.6,2024-09-06,Illo quisquam reiciendis magnam magni perspiciatis.
+742,48,1,2024-2,4.7,2.9,2.4,2024-08-19,Reiciendis inventore inventore laboriosam quis ullam.
+743,48,2,2024-2,4.0,4.7,1.8,2024-09-13,Excepturi magni ad ad molestias aspernatur magnam.
+744,48,3,2024-2,4.5,1.8,1.8,2024-07-30,Sin observacion
+745,48,4,2024-2,4.1,1.5,1.3,2024-07-24,Explicabo accusantium adipisci provident nostrum doloremque.
+746,48,5,2024-2,4.1,3.2,1.2,2024-07-15,Sin observacion
+747,48,6,2024-2,4.6,4.5,3.3,2024-08-15,Sin observacion
+748,48,7,2024-2,4.7,2.1,1.9,2024-09-01,Sin observacion
+749,48,8,2024-2,2.7,4.8,1.1,2024-09-04,Sin observacion
+750,49,1,2024-2,1.7,4.9,3.8,2024-09-02,Sin observacion
+751,49,2,2024-2,3.7,2.5,1.4,2024-07-15,Sin observacion
+752,49,3,2024-2,3.2,1.9,2.9,2024-07-26,Error debitis repellat tenetur praesentium.
+753,49,4,2024-2,2.7,2.7,4.0,2024-08-15,Sin observacion
+754,49,5,2024-2,1.7,1.5,3.3,2024-08-12,Sin observacion
+755,49,6,2024-2,4.2,3.2,4.4,2024-08-01,Sin observacion
+756,49,7,2024-2,1.6,4.2,1.7,2024-08-31,Sin observacion
+757,50,1,2024-2,3.1,2.3,2.9,2024-08-17,Sin observacion
+758,50,2,2024-2,2.6,3.8,1.2,2024-07-18,Ipsa cum quibusdam aspernatur illo incidunt blanditiis voluptas.
+759,50,3,2024-2,1.4,4.0,2.0,2024-08-24,Sin observacion
+760,50,4,2024-2,2.0,1.1,1.5,2024-09-04,Consequatur eius veniam quod quos.
+761,50,6,2024-2,3.6,3.2,4.9,2024-08-20,Sin observacion
+762,50,7,2024-2,2.9,3.9,4.6,2024-08-16,Sin observacion
+763,50,8,2024-2,4.8,4.5,3.6,2024-08-24,Exercitationem esse placeat ipsum et itaque.
+764,1,1,2025-1,3.3,4.4,1.3,2025-02-23,Sin observacion
+765,1,2,2025-1,3.6,3.8,3.4,2025-02-04,Sin observacion
+766,1,3,2025-1,4.5,2.5,3.3,2025-03-05,Labore harum debitis molestiae.
+767,1,4,2025-1,4.4,1.5,1.9,2025-01-26,Sin observacion
+768,1,5,2025-1,1.3,1.7,1.4,2025-03-03,Sin observacion
+769,1,6,2025-1,1.2,4.1,3.1,2025-02-19,Sit accusantium quasi reiciendis dicta.
+770,1,7,2025-1,1.6,3.6,4.5,2025-02-23,Sin observacion
+771,1,8,2025-1,2.8,1.5,3.1,2025-02-02,Sin observacion
+772,2,1,2025-1,4.4,2.3,2.9,2025-02-06,Rem quisquam ullam velit minima ut.
+773,2,2,2025-1,3.2,1.5,4.8,2025-02-01,Sin observacion
+774,2,3,2025-1,3.5,3.5,3.3,2025-02-13,Sin observacion
+775,2,4,2025-1,4.6,2.9,1.9,2025-02-03,Sin observacion
+776,2,5,2025-1,2.0,2.2,1.0,2025-02-10,Aliquid fuga consequatur distinctio unde.
+777,2,6,2025-1,2.1,3.1,3.8,2025-02-06,Sin observacion
+778,2,7,2025-1,1.0,2.7,2.2,2025-02-03,Sin observacion
+779,2,8,2025-1,1.8,4.5,2.7,2025-02-07,Sin observacion
+780,3,1,2025-1,2.6,2.5,2.1,2025-02-25,Sin observacion
+781,3,2,2025-1,4.2,3.5,3.8,2025-03-04,Sin observacion
+782,3,3,2025-1,4.2,2.7,4.4,2025-02-18,Sin observacion
+783,3,4,2025-1,2.8,2.8,3.8,2025-02-24,Sin observacion
+784,3,5,2025-1,1.2,3.1,1.7,2025-01-24,Sin observacion
+785,3,6,2025-1,2.8,1.0,1.4,2025-03-01,Sin observacion
+786,3,7,2025-1,2.2,4.2,5.0,2025-02-10,Sin observacion
+787,3,8,2025-1,1.3,4.0,1.6,2025-02-05,Sin observacion
+788,4,1,2025-1,2.9,1.8,4.4,2025-02-18,Temporibus dolores tempore eaque.
+789,4,2,2025-1,4.9,3.9,2.5,2025-01-22,Blanditiis ipsa enim soluta.
+790,4,3,2025-1,1.8,3.9,1.4,2025-01-17,Molestias enim ducimus aspernatur aliquam.
+791,4,4,2025-1,3.7,2.2,2.3,2025-02-08,Architecto itaque impedit nihil.
+792,4,5,2025-1,3.2,1.5,2.9,2025-03-15,Sin observacion
+793,4,6,2025-1,4.5,1.9,1.5,2025-01-18,Debitis eveniet et ipsam.
+794,4,7,2025-1,4.2,3.3,2.6,2025-01-25,Sin observacion
+795,5,1,2025-1,2.9,3.4,2.5,2025-02-28,Sin observacion
+796,5,2,2025-1,3.7,2.4,4.9,2025-01-20,Debitis perspiciatis provident assumenda quam officia commodi.
+797,5,3,2025-1,3.6,3.8,4.2,2025-02-06,Sin observacion
+798,5,4,2025-1,4.2,4.0,4.2,2025-02-19,Sin observacion
+799,5,5,2025-1,2.5,3.9,2.0,2025-02-28,Sin observacion
+800,5,6,2025-1,2.2,3.8,1.8,2025-02-19,Sin observacion
+801,5,7,2025-1,2.9,4.5,3.4,2025-03-02,Aspernatur quas repudiandae ea ducimus in.
+802,5,8,2025-1,1.6,2.2,2.1,2025-02-17,Sin observacion
+803,6,1,2025-1,3.0,3.9,4.5,2025-02-24,Debitis accusamus odio quo blanditiis.
+804,6,2,2025-1,2.0,3.9,3.6,2025-02-23,Sin observacion
+805,6,3,2025-1,3.7,4.1,1.6,2025-02-17,Sin observacion
+806,6,4,2025-1,1.4,3.1,1.3,2025-02-04,Deleniti inventore dolorum eaque distinctio facere dolorum.
+807,6,5,2025-1,1.1,1.4,1.8,2025-03-11,Sin observacion
+808,6,6,2025-1,3.6,3.1,3.8,2025-02-08,Sin observacion
+809,6,7,2025-1,3.9,1.1,4.7,2025-02-22,Deleniti suscipit illum eaque numquam.
+810,6,8,2025-1,1.3,4.2,1.2,2025-03-09,Sin observacion
+811,7,1,2025-1,4.3,4.2,1.2,2025-02-10,Nisi nisi nobis minima distinctio voluptate expedita.
+812,7,2,2025-1,1.3,2.2,4.8,2025-03-02,Expedita nemo amet atque culpa.
+813,7,3,2025-1,1.9,2.5,1.8,2025-03-02,Iusto commodi rerum at assumenda cumque distinctio.
+814,7,4,2025-1,1.7,4.0,2.7,2025-03-16,Sin observacion
+815,7,5,2025-1,3.7,3.8,2.7,2025-02-06,Sin observacion
+816,7,6,2025-1,2.6,2.4,1.6,2025-02-19,Error iste voluptatum corrupti molestias officiis esse.
+817,7,7,2025-1,4.6,3.2,5.0,2025-02-06,Vitae soluta nemo ab possimus est.
+818,7,8,2025-1,2.7,3.9,3.4,2025-02-24,Sin observacion
+819,8,1,2025-1,3.2,4.0,2.4,2025-03-05,Sin observacion
+820,8,3,2025-1,4.9,3.4,3.1,2025-01-17,Necessitatibus totam dolore tenetur iste animi.
+821,8,4,2025-1,4.9,1.9,2.3,2025-02-03,Eligendi accusantium aspernatur.
+822,8,5,2025-1,2.1,3.2,3.2,2025-03-08,Quaerat magnam perferendis corrupti.
+823,8,6,2025-1,2.8,1.6,2.1,2025-01-17,Aspernatur exercitationem assumenda qui aliquid eius.
+824,8,7,2025-1,4.2,1.4,2.6,2025-01-31,Quod veritatis nam perspiciatis ex hic.
+825,8,8,2025-1,2.3,2.9,3.0,2025-03-02,Minima error excepturi voluptate.
+826,9,1,2025-1,4.6,3.4,2.2,2025-03-08,Sequi consectetur modi incidunt error quo quibusdam.
+827,9,2,2025-1,4.1,4.7,2.3,2025-01-20,Voluptatum repudiandae unde placeat totam.
+828,9,3,2025-1,4.5,4.5,1.9,2025-03-15,Incidunt laboriosam dolorem.
+829,9,4,2025-1,3.5,3.5,1.2,2025-01-15,Sin observacion
+830,9,5,2025-1,1.6,3.0,1.9,2025-02-20,Sin observacion
+831,9,6,2025-1,4.9,4.0,3.3,2025-02-09,Sin observacion
+832,9,7,2025-1,2.6,1.5,1.3,2025-03-06,Sin observacion
+833,9,8,2025-1,2.1,2.6,2.7,2025-02-09,Totam nemo nemo iure iste.
+834,10,1,2025-1,3.2,3.0,3.6,2025-02-14,Sin observacion
+835,10,2,2025-1,3.1,2.0,2.1,2025-03-03,Sin observacion
+836,10,3,2025-1,1.4,3.7,2.7,2025-02-20,Sin observacion
+837,10,4,2025-1,3.6,4.1,1.7,2025-02-22,Sin observacion
+838,10,5,2025-1,2.8,1.6,1.2,2025-03-07,Eveniet architecto laboriosam provident corrupti nisi.
+839,10,6,2025-1,1.6,3.9,1.3,2025-02-07,Iusto odio doloribus deserunt molestiae quos recusandae.
+840,10,7,2025-1,4.7,4.5,4.3,2025-02-23,Sin observacion
+841,10,8,2025-1,2.2,2.9,2.3,2025-01-22,Facere fugit laboriosam consequatur nostrum praesentium porro odit.
+842,11,1,2025-1,3.1,2.0,2.9,2025-02-18,Non nemo aspernatur quis totam.
+843,11,2,2025-1,3.7,2.5,4.6,2025-02-28,Sin observacion
+844,11,3,2025-1,2.1,4.2,3.5,2025-01-18,Sin observacion
+845,11,4,2025-1,1.3,3.6,3.7,2025-01-15,Non itaque adipisci accusamus.
+846,11,5,2025-1,1.1,4.5,3.6,2025-01-21,Sin observacion
+847,11,6,2025-1,1.4,2.3,4.5,2025-03-01,Sin observacion
+848,11,7,2025-1,4.9,3.2,3.8,2025-02-16,Sin observacion
+849,11,8,2025-1,2.3,2.6,1.6,2025-02-03,Sin observacion
+850,12,1,2025-1,2.2,5.0,4.9,2025-02-24,Sin observacion
+851,12,2,2025-1,4.5,4.6,4.3,2025-01-31,Sin observacion
+852,12,3,2025-1,1.9,2.4,2.6,2025-02-01,Sin observacion
+853,12,4,2025-1,4.8,3.4,3.5,2025-02-17,Sin observacion
+854,12,5,2025-1,2.7,2.2,3.4,2025-01-24,Sin observacion
+855,12,6,2025-1,1.6,3.2,4.2,2025-02-25,Illo pariatur animi et velit.
+856,12,7,2025-1,4.6,4.6,2.7,2025-03-01,Distinctio eligendi non fuga accusamus laborum porro porro.
+857,12,8,2025-1,4.7,4.7,2.3,2025-02-25,Sin observacion
+858,13,1,2025-1,1.7,4.4,1.6,2025-01-22,Sin observacion
+859,13,2,2025-1,4.8,2.2,4.0,2025-02-10,Laboriosam placeat veniam magni facilis.
+860,13,3,2025-1,2.1,4.1,1.4,2025-03-03,Sin observacion
+861,13,4,2025-1,3.5,3.4,3.4,2025-02-23,Sin observacion
+862,13,5,2025-1,2.4,3.8,2.9,2025-01-16,Sin observacion
+863,13,6,2025-1,3.6,1.7,2.5,2025-03-01,Sin observacion
+864,13,7,2025-1,1.1,4.1,1.1,2025-01-29,Sin observacion
+865,13,8,2025-1,3.7,1.8,1.8,2025-03-03,Sin observacion
+866,14,2,2025-1,3.0,2.3,2.8,2025-02-23,Sin observacion
+867,14,3,2025-1,3.4,4.3,3.9,2025-01-17,Sin observacion
+868,14,4,2025-1,3.4,3.1,4.5,2025-02-20,Ex pariatur excepturi molestiae.
+869,14,5,2025-1,2.8,4.5,4.5,2025-02-12,Sin observacion
+870,14,6,2025-1,1.2,2.5,4.1,2025-03-03,Minus commodi voluptates placeat sequi quidem cumque consequatur.
+871,14,7,2025-1,2.6,2.2,4.3,2025-02-12,Sin observacion
+872,14,8,2025-1,4.7,3.8,4.6,2025-02-23,Sin observacion
+873,15,1,2025-1,3.9,1.5,4.1,2025-01-20,Consequatur possimus consectetur perferendis vel veritatis porro quasi.
+874,15,2,2025-1,2.6,2.3,1.1,2025-01-23,Sin observacion
+875,15,3,2025-1,1.8,2.8,2.0,2025-03-13,Delectus id officia illum.
+876,15,4,2025-1,1.7,3.9,1.4,2025-03-06,Et eaque ea.
+877,15,5,2025-1,3.1,2.5,4.2,2025-01-20,Sin observacion
+878,15,6,2025-1,3.2,1.2,1.7,2025-02-08,Sin observacion
+879,15,7,2025-1,1.6,4.5,1.7,2025-03-11,Deserunt recusandae vel illo.
+880,15,8,2025-1,3.9,4.8,2.2,2025-02-03,Sin observacion
+881,16,1,2025-1,1.0,4.1,1.0,2025-01-27,Sin observacion
+882,16,2,2025-1,1.0,4.5,2.0,2025-03-07,Sin observacion
+883,16,3,2025-1,2.8,3.4,1.0,2025-02-10,Iusto accusamus dolores accusantium esse doloremque iusto.
+884,16,4,2025-1,3.2,4.3,1.2,2025-02-24,Sin observacion
+885,16,5,2025-1,1.6,1.1,3.3,2025-01-17,Molestias quidem vitae amet.
+886,16,6,2025-1,1.2,2.7,1.7,2025-01-20,Sapiente distinctio magnam magni et voluptas ipsum.
+887,16,7,2025-1,3.8,3.3,3.2,2025-02-28,Nobis alias minus commodi.
+888,16,8,2025-1,4.7,1.4,2.2,2025-02-07,Sin observacion
+889,17,1,2025-1,4.0,4.4,1.3,2025-01-19,Sin observacion
+890,17,2,2025-1,2.1,3.1,3.1,2025-03-11,Cupiditate quos incidunt consequatur.
+891,17,3,2025-1,3.3,4.9,3.1,2025-01-21,Sin observacion
+892,17,4,2025-1,4.7,4.9,2.1,2025-02-22,Optio consequuntur facilis necessitatibus saepe inventore.
+893,17,5,2025-1,3.3,3.5,4.7,2025-02-17,Culpa voluptates veritatis accusantium possimus quasi.
+894,17,6,2025-1,3.5,3.0,1.7,2025-03-02,Nobis esse itaque reprehenderit delectus.
+895,17,7,2025-1,1.0,1.1,3.5,2025-01-27,Sin observacion
+896,17,8,2025-1,3.5,2.7,1.2,2025-03-07,Sin observacion
+897,18,1,2025-1,1.0,1.8,2.1,2025-01-28,Soluta provident enim incidunt labore quaerat totam.
+898,18,2,2025-1,3.2,4.1,1.5,2025-02-16,Sin observacion
+899,18,3,2025-1,3.5,1.1,1.7,2025-02-20,Sin observacion
+900,18,4,2025-1,2.9,2.9,1.1,2025-02-27,Sin observacion
+901,18,5,2025-1,4.6,3.1,2.3,2025-02-13,Magni veniam provident numquam libero fugit sit.
+902,18,6,2025-1,1.2,3.1,3.3,2025-03-03,Sit sint excepturi fugiat.
+903,18,7,2025-1,1.8,3.7,4.2,2025-01-16,Officiis repudiandae delectus consectetur.
+904,18,8,2025-1,2.1,1.1,4.9,2025-01-24,Nam officiis mollitia eos nulla.
+905,19,1,2025-1,3.4,1.7,1.5,2025-02-20,Vel sequi sed.
+906,19,2,2025-1,2.3,1.1,2.7,2025-03-10,Sin observacion
+907,19,3,2025-1,4.3,2.2,3.1,2025-02-12,Sin observacion
+908,19,4,2025-1,4.1,4.7,2.8,2025-01-17,Sin observacion
+909,19,5,2025-1,1.6,2.4,2.9,2025-02-16,Nihil voluptatum harum ad ea.
+910,19,6,2025-1,1.6,4.5,4.3,2025-02-04,Doloribus cumque modi autem possimus doloremque eaque.
+911,19,7,2025-1,1.8,1.1,2.6,2025-01-23,Soluta rerum neque doloribus voluptatem odio accusamus.
+912,19,8,2025-1,4.7,3.7,3.4,2025-02-03,Sin observacion
+913,20,1,2025-1,1.4,4.1,4.0,2025-01-17,Sin observacion
+914,20,2,2025-1,4.6,2.3,1.8,2025-02-24,Sin observacion
+915,20,3,2025-1,3.7,2.1,1.6,2025-02-12,Sin observacion
+916,20,5,2025-1,1.8,2.4,2.3,2025-01-21,Sin observacion
+917,20,6,2025-1,3.3,1.7,2.2,2025-02-02,Ullam impedit tempore optio aut.
+918,20,7,2025-1,1.5,2.9,3.7,2025-01-18,Sin observacion
+919,20,8,2025-1,2.6,3.8,4.6,2025-02-11,Velit qui facilis autem molestiae.
+920,21,1,2025-1,3.5,2.2,4.3,2025-02-12,Temporibus nesciunt cum quam iusto.
+921,21,2,2025-1,1.3,4.7,4.1,2025-02-18,Sin observacion
+922,21,3,2025-1,4.7,2.9,2.8,2025-03-07,Magnam debitis recusandae temporibus.
+923,21,4,2025-1,2.9,4.8,1.6,2025-02-13,Consequatur deserunt debitis illum at corporis temporibus.
+924,21,5,2025-1,2.6,3.8,3.7,2025-02-07,Fugit beatae aliquid officia quas.
+925,21,6,2025-1,3.0,1.3,1.5,2025-02-13,Sin observacion
+926,21,7,2025-1,4.1,3.4,1.5,2025-02-02,Sin observacion
+927,21,8,2025-1,1.4,3.2,1.3,2025-03-06,Sin observacion
+928,22,1,2025-1,2.7,3.5,3.2,2025-02-21,Quibusdam reprehenderit illum odit suscipit odio asperiores.
+929,22,2,2025-1,1.8,3.8,2.7,2025-02-05,Suscipit iste fugit quia.
+930,22,3,2025-1,3.2,1.9,3.7,2025-02-05,Sin observacion
+931,22,4,2025-1,4.3,1.5,3.4,2025-02-20,Sin observacion
+932,22,5,2025-1,1.7,4.8,1.3,2025-02-12,Sin observacion
+933,22,6,2025-1,4.3,2.3,3.6,2025-03-05,Sin observacion
+934,22,7,2025-1,4.5,4.6,3.5,2025-01-23,Sin observacion
+935,22,8,2025-1,2.8,2.2,3.5,2025-01-24,Sin observacion
+936,23,1,2025-1,2.3,3.3,4.7,2025-03-12,Sin observacion
+937,23,2,2025-1,3.9,4.7,5.0,2025-02-11,Sin observacion
+938,23,3,2025-1,2.6,1.5,2.2,2025-02-16,Sin observacion
+939,23,4,2025-1,1.0,3.2,4.9,2025-01-18,Sin observacion
+940,23,5,2025-1,1.9,3.8,2.6,2025-01-16,Sin observacion
+941,23,6,2025-1,2.7,1.8,1.7,2025-02-08,Sin observacion
+942,23,7,2025-1,4.7,4.4,1.6,2025-03-09,Natus vitae rem a.
+943,23,8,2025-1,1.0,3.6,1.6,2025-01-23,Facilis voluptas aliquam.
+944,24,1,2025-1,1.3,3.6,2.7,2025-01-23,Sin observacion
+945,24,2,2025-1,4.7,3.5,2.8,2025-02-22,Sin observacion
+946,24,3,2025-1,2.4,1.7,3.4,2025-02-08,Sin observacion
+947,24,4,2025-1,3.8,2.1,4.7,2025-01-30,Sin observacion
+948,24,5,2025-1,3.3,3.8,1.5,2025-01-17,Sin observacion
+949,24,6,2025-1,3.9,3.1,4.4,2025-01-24,Iste voluptatibus deserunt praesentium voluptas mollitia.
+950,24,7,2025-1,1.3,4.6,1.4,2025-02-17,Sin observacion
+951,24,8,2025-1,1.3,3.5,4.2,2025-02-26,Sin observacion
+952,25,1,2025-1,3.1,1.0,2.8,2025-02-05,Doloribus temporibus blanditiis explicabo nulla voluptatibus.
+953,25,2,2025-1,2.7,4.8,4.2,2025-02-05,Sin observacion
+954,25,3,2025-1,3.4,2.2,4.1,2025-03-15,Sin observacion
+955,25,4,2025-1,1.7,1.2,5.0,2025-02-21,Deserunt aperiam nesciunt iure quia.
+956,25,5,2025-1,2.9,1.5,1.3,2025-02-02,Tenetur quo quo earum nostrum minus.
+957,25,6,2025-1,2.1,4.4,1.1,2025-02-23,Sin observacion
+958,25,7,2025-1,4.0,3.6,2.5,2025-02-21,Sin observacion
+959,25,8,2025-1,2.9,4.2,4.4,2025-01-30,Sin observacion
+960,26,1,2025-1,3.4,4.3,4.4,2025-01-24,Esse debitis beatae quas molestiae.
+961,26,2,2025-1,2.0,2.8,3.6,2025-02-08,Sin observacion
+962,26,3,2025-1,1.2,2.1,4.3,2025-02-06,Sin observacion
+963,26,4,2025-1,2.2,4.0,4.0,2025-02-14,Sin observacion
+964,26,5,2025-1,2.6,2.1,3.1,2025-03-01,Sin observacion
+965,26,6,2025-1,2.8,3.7,4.8,2025-03-07,Aperiam provident reiciendis modi repudiandae deserunt.
+966,26,7,2025-1,3.1,2.4,4.4,2025-03-14,Atque fugiat optio esse fuga.
+967,26,8,2025-1,2.3,2.1,1.4,2025-02-01,Aut temporibus repellendus laudantium aliquid.
+968,27,1,2025-1,3.7,2.0,3.7,2025-03-05,Nisi dolore velit doloribus.
+969,27,2,2025-1,3.8,1.7,3.2,2025-02-27,Non quidem alias nam occaecati quae.
+970,27,3,2025-1,2.6,3.1,3.7,2025-01-15,Sin observacion
+971,27,4,2025-1,1.8,1.1,1.4,2025-01-31,Mollitia commodi ipsam dolore officia libero esse.
+972,27,5,2025-1,1.9,3.4,1.5,2025-03-09,Ut architecto consectetur quod expedita aut.
+973,27,6,2025-1,1.5,3.6,4.6,2025-02-22,Sin observacion
+974,27,8,2025-1,1.7,2.2,3.6,2025-02-28,Sin observacion
+975,28,1,2025-1,4.1,3.8,3.7,2025-02-01,Adipisci excepturi voluptates mollitia laboriosam excepturi.
+976,28,2,2025-1,1.3,4.1,2.5,2025-03-05,Sin observacion
+977,28,3,2025-1,2.1,2.8,3.0,2025-03-08,Beatae qui quidem iusto provident incidunt.
+978,28,4,2025-1,3.6,1.4,3.2,2025-01-26,Sin observacion
+979,28,5,2025-1,4.7,3.9,1.4,2025-01-21,Sin observacion
+980,28,6,2025-1,4.1,1.1,3.0,2025-01-31,Consectetur accusamus debitis doloremque fugit debitis perspiciatis.
+981,28,7,2025-1,3.7,2.1,3.8,2025-01-17,Cupiditate aperiam labore quisquam occaecati facilis.
+982,28,8,2025-1,3.8,4.1,2.9,2025-02-16,Sin observacion
+983,29,1,2025-1,4.1,3.2,1.0,2025-03-07,Molestias perferendis delectus aspernatur provident cupiditate doloremque.
+984,29,2,2025-1,1.5,3.1,5.0,2025-02-14,Sin observacion
+985,29,3,2025-1,3.5,4.8,1.4,2025-01-18,Sin observacion
+986,29,5,2025-1,4.0,2.2,1.8,2025-02-13,Sin observacion
+987,29,7,2025-1,3.8,4.6,3.5,2025-02-03,Sin observacion
+988,29,8,2025-1,2.8,1.8,1.1,2025-02-24,Sin observacion
+989,30,2,2025-1,1.3,3.2,2.2,2025-02-08,Sin observacion
+990,30,3,2025-1,4.9,1.1,2.4,2025-02-12,Sin observacion
+991,30,4,2025-1,1.5,4.2,3.7,2025-02-09,Sin observacion
+992,30,5,2025-1,3.1,4.0,1.9,2025-03-11,Sin observacion
+993,30,6,2025-1,3.6,2.9,4.7,2025-02-15,Sin observacion
+994,30,7,2025-1,1.1,3.5,4.6,2025-01-23,Ipsum ut non.
+995,30,8,2025-1,1.7,3.4,4.3,2025-02-23,Sin observacion
+996,31,1,2025-1,3.5,1.3,1.8,2025-03-07,Sin observacion
+997,31,2,2025-1,3.7,2.3,4.9,2025-03-03,Sin observacion
+998,31,3,2025-1,4.9,1.9,1.2,2025-03-09,Sin observacion
+999,31,4,2025-1,1.6,2.7,3.8,2025-02-01,Sin observacion
+1000,31,5,2025-1,3.3,1.5,4.2,2025-03-15,Explicabo sapiente accusantium atque.
+1001,31,6,2025-1,1.1,2.9,1.0,2025-01-25,Sin observacion
+1002,31,7,2025-1,3.4,2.1,3.8,2025-02-25,Dolorem fugiat reprehenderit porro.
+1003,31,8,2025-1,1.8,3.6,3.1,2025-01-23,Sin observacion
+1004,32,1,2025-1,3.8,3.4,3.9,2025-02-23,Vitae molestias officiis eligendi sunt sed qui sit.
+1005,32,2,2025-1,4.1,2.4,1.0,2025-03-08,Sin observacion
+1006,32,3,2025-1,4.9,3.5,4.5,2025-02-17,Rerum suscipit nesciunt quasi minima possimus.
+1007,32,4,2025-1,4.1,3.6,2.1,2025-02-13,Sin observacion
+1008,32,5,2025-1,4.4,4.6,3.0,2025-02-27,Sin observacion
+1009,32,6,2025-1,3.6,2.1,2.7,2025-01-18,Sin observacion
+1010,32,7,2025-1,2.8,1.4,1.2,2025-03-04,Sin observacion
+1011,32,8,2025-1,2.9,1.5,4.6,2025-01-16,Perspiciatis assumenda recusandae a porro.
+1012,33,1,2025-1,2.7,4.0,4.6,2025-02-04,Sin observacion
+1013,33,2,2025-1,1.4,4.0,4.5,2025-01-29,Sin observacion
+1014,33,3,2025-1,3.3,1.2,2.7,2025-02-14,Sin observacion
+1015,33,4,2025-1,2.5,1.5,3.9,2025-01-26,Quod optio quam incidunt consequatur.
+1016,33,6,2025-1,1.1,3.3,2.1,2025-01-23,Sin observacion
+1017,33,7,2025-1,1.7,2.4,4.5,2025-02-10,Placeat est deleniti temporibus eveniet quia incidunt.
+1018,33,8,2025-1,4.8,4.6,3.3,2025-02-24,Sin observacion
+1019,34,1,2025-1,4.4,3.0,5.0,2025-02-10,Sin observacion
+1020,34,2,2025-1,1.1,2.7,4.5,2025-02-01,Sin observacion
+1021,34,3,2025-1,4.6,3.4,1.6,2025-01-29,Sin observacion
+1022,34,4,2025-1,1.2,2.9,4.1,2025-01-17,Sin observacion
+1023,34,5,2025-1,4.2,3.8,1.4,2025-02-14,Sin observacion
+1024,34,6,2025-1,1.0,3.9,4.8,2025-03-04,Sin observacion
+1025,34,7,2025-1,5.0,1.1,3.7,2025-02-25,Sin observacion
+1026,34,8,2025-1,4.0,1.1,2.8,2025-02-20,At molestiae rerum.
+1027,35,1,2025-1,1.7,4.5,3.5,2025-02-09,Vel ex eos quidem.
+1028,35,2,2025-1,1.3,4.6,2.3,2025-02-24,Sin observacion
+1029,35,3,2025-1,3.8,3.5,3.3,2025-02-01,Sin observacion
+1030,35,4,2025-1,4.5,3.9,1.2,2025-02-23,Veritatis placeat tenetur beatae odit dignissimos.
+1031,35,5,2025-1,1.2,2.5,2.9,2025-03-12,Sin observacion
+1032,35,6,2025-1,3.2,1.3,3.8,2025-02-25,Sin observacion
+1033,35,8,2025-1,3.6,3.9,4.0,2025-01-22,Excepturi facilis esse modi ipsam.
+1034,36,1,2025-1,4.0,1.9,2.4,2025-03-04,Sin observacion
+1035,36,2,2025-1,1.2,2.5,2.8,2025-02-01,Sin observacion
+1036,36,3,2025-1,3.8,3.7,3.1,2025-02-14,Sin observacion
+1037,36,4,2025-1,3.7,3.8,4.9,2025-03-07,Aspernatur eum id expedita ex tempore dolore.
+1038,36,5,2025-1,2.8,1.3,4.6,2025-03-12,Sin observacion
+1039,36,7,2025-1,1.4,1.6,1.6,2025-02-01,Sin observacion
+1040,37,1,2025-1,4.9,3.2,1.5,2025-02-10,Sin observacion
+1041,37,2,2025-1,1.1,1.8,1.1,2025-02-25,Non pariatur minima tempora.
+1042,37,3,2025-1,3.6,2.6,2.4,2025-02-17,Quam provident adipisci ullam.
+1043,37,4,2025-1,3.7,3.1,3.2,2025-02-21,Sin observacion
+1044,37,5,2025-1,4.2,1.7,2.0,2025-03-13,Sin observacion
+1045,37,7,2025-1,1.6,2.1,4.8,2025-01-18,Quia voluptate dignissimos ab delectus nemo.
+1046,37,8,2025-1,2.1,4.9,4.4,2025-02-18,Adipisci rerum inventore doloremque porro quaerat.
+1047,38,1,2025-1,1.6,1.5,5.0,2025-01-24,Sin observacion
+1048,38,2,2025-1,1.7,3.2,1.1,2025-02-07,Sin observacion
+1049,38,3,2025-1,2.8,4.9,3.1,2025-02-07,Sin observacion
+1050,38,4,2025-1,3.0,1.6,2.8,2025-03-15,Sin observacion
+1051,38,5,2025-1,3.2,3.0,3.6,2025-03-03,Sin observacion
+1052,38,6,2025-1,4.0,5.0,3.7,2025-03-16,Accusantium nisi doloribus voluptatum.
+1053,38,7,2025-1,2.8,3.8,3.9,2025-03-15,Consequuntur pariatur quibusdam occaecati at aut.
+1054,38,8,2025-1,1.5,1.1,3.5,2025-02-19,Sin observacion
+1055,39,1,2025-1,1.2,3.6,3.3,2025-02-04,Sin observacion
+1056,39,2,2025-1,1.8,1.3,4.4,2025-02-01,Reiciendis aliquam quae corrupti sapiente commodi saepe.
+1057,39,5,2025-1,2.3,3.4,4.8,2025-02-15,Nostrum sapiente aspernatur earum illum ullam.
+1058,39,6,2025-1,3.9,2.7,2.5,2025-01-24,Sin observacion
+1059,39,7,2025-1,4.9,4.5,1.4,2025-02-03,Quod iste neque.
+1060,39,8,2025-1,4.2,2.2,4.2,2025-02-10,Nam corrupti aperiam quas explicabo.
+1061,40,1,2025-1,2.7,4.3,3.4,2025-03-13,Sin observacion
+1062,40,2,2025-1,3.1,2.3,4.7,2025-03-11,Sin observacion
+1063,40,3,2025-1,2.6,4.7,2.7,2025-01-15,Sin observacion
+1064,40,4,2025-1,4.7,1.8,4.3,2025-03-04,Sin observacion
+1065,40,5,2025-1,4.3,4.3,2.2,2025-03-08,Sin observacion
+1066,40,6,2025-1,4.2,1.6,2.2,2025-01-16,Et aperiam quam dolores consequatur.
+1067,40,7,2025-1,3.6,4.6,2.7,2025-01-22,Sin observacion
+1068,40,8,2025-1,1.1,4.1,3.0,2025-01-30,Sint sint officia quod.
+1069,41,1,2025-1,3.3,3.3,4.5,2025-02-07,Excepturi libero magni.
+1070,41,2,2025-1,4.3,2.5,3.9,2025-02-28,Sin observacion
+1071,41,3,2025-1,1.2,2.3,4.5,2025-02-21,Sin observacion
+1072,41,4,2025-1,2.4,3.5,4.8,2025-02-01,Sin observacion
+1073,41,5,2025-1,4.7,3.1,4.1,2025-02-24,Sin observacion
+1074,41,6,2025-1,1.7,2.3,2.3,2025-03-04,Assumenda perferendis architecto quos sint ullam.
+1075,41,7,2025-1,3.7,3.8,1.4,2025-02-01,Sin observacion
+1076,41,8,2025-1,1.5,2.1,4.1,2025-01-15,Sin observacion
+1077,42,1,2025-1,1.4,1.6,1.9,2025-01-25,Sin observacion
+1078,42,2,2025-1,3.8,4.8,4.4,2025-02-23,Vitae porro distinctio tempora quas.
+1079,42,3,2025-1,1.5,2.8,1.3,2025-03-07,Dolores ipsa itaque corporis rerum perspiciatis.
+1080,42,4,2025-1,2.4,3.8,1.6,2025-02-14,Sin observacion
+1081,42,6,2025-1,1.7,2.2,4.0,2025-02-05,Sin observacion
+1082,42,7,2025-1,1.6,1.9,1.5,2025-02-28,Sin observacion
+1083,42,8,2025-1,4.1,1.4,1.1,2025-02-28,Sin observacion
+1084,43,1,2025-1,1.4,4.2,3.1,2025-01-27,Sin observacion
+1085,43,2,2025-1,1.2,2.2,1.0,2025-01-31,Sin observacion
+1086,43,3,2025-1,1.8,4.6,1.7,2025-02-22,Sin observacion
+1087,43,4,2025-1,4.0,2.1,3.3,2025-03-10,Sin observacion
+1088,43,5,2025-1,3.9,2.0,3.3,2025-03-05,Sin observacion
+1089,43,6,2025-1,3.1,3.9,4.9,2025-01-15,Sin observacion
+1090,43,7,2025-1,4.9,1.4,1.9,2025-01-15,Sin observacion
+1091,43,8,2025-1,3.8,1.7,3.7,2025-02-07,Sin observacion
+1092,44,1,2025-1,2.7,3.1,2.6,2025-02-08,Facere explicabo dolor incidunt illum aperiam amet ipsam.
+1093,44,2,2025-1,1.4,1.5,4.0,2025-02-13,Blanditiis laborum vel qui earum saepe.
+1094,44,3,2025-1,1.3,3.0,2.5,2025-01-17,Sin observacion
+1095,44,4,2025-1,4.9,2.8,3.2,2025-02-27,Sin observacion
+1096,44,5,2025-1,4.4,4.6,4.2,2025-01-27,Veniam consequatur cumque.
+1097,44,6,2025-1,5.0,3.0,1.4,2025-01-15,Sin observacion
+1098,44,7,2025-1,1.5,2.6,3.8,2025-01-20,Modi assumenda ipsum quo.
+1099,44,8,2025-1,4.9,1.3,4.9,2025-03-13,Sin observacion
+1100,45,1,2025-1,1.5,4.4,3.9,2025-02-09,Sin observacion
+1101,45,2,2025-1,3.4,4.0,4.2,2025-02-21,Atque dolor consequatur consequuntur sunt aliquam voluptates.
+1102,45,3,2025-1,3.4,2.6,2.9,2025-02-26,Sin observacion
+1103,45,4,2025-1,1.5,3.0,1.9,2025-01-21,Labore quia sunt reprehenderit deserunt culpa.
+1104,45,5,2025-1,1.2,1.3,3.7,2025-03-03,Maiores perspiciatis aspernatur tempore quas.
+1105,45,6,2025-1,2.3,2.2,3.5,2025-02-27,Saepe maiores ab a iure.
+1106,45,7,2025-1,4.1,4.2,1.8,2025-02-17,Temporibus sunt autem officiis.
+1107,45,8,2025-1,3.2,4.2,3.2,2025-01-31,Sin observacion
+1108,46,1,2025-1,4.5,1.5,2.8,2025-02-11,Dolorum praesentium saepe quod.
+1109,46,2,2025-1,1.1,3.2,4.4,2025-01-17,Sin observacion
+1110,46,3,2025-1,2.7,2.2,2.6,2025-02-15,Odio voluptates culpa minus.
+1111,46,4,2025-1,3.6,3.7,3.3,2025-02-15,Sin observacion
+1112,46,5,2025-1,1.2,2.1,3.4,2025-02-16,Sin observacion
+1113,46,6,2025-1,4.9,2.3,1.1,2025-03-05,Sin observacion
+1114,46,7,2025-1,4.2,3.3,4.1,2025-02-06,Unde temporibus suscipit aperiam corporis incidunt aspernatur.
+1115,46,8,2025-1,2.4,2.4,2.4,2025-02-11,Magnam modi ad ex.
+1116,47,1,2025-1,2.2,1.3,3.8,2025-02-25,Eligendi eveniet suscipit veniam.
+1117,47,2,2025-1,1.1,2.3,2.8,2025-01-25,Deserunt pariatur animi eos.
+1118,47,3,2025-1,2.7,1.1,2.9,2025-03-13,Sin observacion
+1119,47,4,2025-1,2.6,3.3,4.2,2025-02-20,Sin observacion
+1120,47,5,2025-1,3.0,4.2,3.7,2025-02-05,Sin observacion
+1121,47,6,2025-1,1.8,3.5,4.9,2025-02-11,Sin observacion
+1122,47,7,2025-1,2.1,1.2,5.0,2025-01-28,Sin observacion
+1123,47,8,2025-1,4.8,3.9,3.3,2025-03-03,Sin observacion
+1124,48,1,2025-1,4.2,2.9,1.8,2025-02-20,Asperiores omnis asperiores cumque magnam.
+1125,48,2,2025-1,3.0,2.2,3.7,2025-02-03,Sin observacion
+1126,48,3,2025-1,3.5,2.8,4.1,2025-01-31,Sin observacion
+1127,48,4,2025-1,3.1,1.7,3.0,2025-03-01,Ducimus distinctio omnis asperiores libero a dolore.
+1128,48,5,2025-1,2.9,4.7,3.1,2025-03-16,Nemo sapiente temporibus placeat veniam nam aspernatur eveniet.
+1129,48,6,2025-1,4.7,3.9,1.2,2025-02-11,Sin observacion
+1130,48,7,2025-1,1.6,3.7,2.2,2025-01-30,Sin observacion
+1131,48,8,2025-1,4.6,3.5,4.4,2025-03-09,Sin observacion
+1132,49,1,2025-1,2.0,3.4,2.6,2025-01-25,Sin observacion
+1133,49,2,2025-1,4.2,2.2,2.9,2025-01-30,Ut dolore dicta porro expedita quam vitae.
+1134,49,3,2025-1,1.1,1.6,1.5,2025-03-13,Sin observacion
+1135,49,4,2025-1,3.2,3.6,1.2,2025-02-26,Praesentium facere quisquam aspernatur impedit.
+1136,49,5,2025-1,4.4,1.3,3.4,2025-01-18,Corrupti soluta adipisci vitae.
+1137,49,6,2025-1,4.6,3.7,4.5,2025-02-10,Sin observacion
+1138,49,7,2025-1,1.6,1.4,3.9,2025-03-09,Dolor facilis quaerat architecto repudiandae aut ullam et.
+1139,49,8,2025-1,3.3,4.1,3.1,2025-03-09,Sin observacion
+1140,50,1,2025-1,1.5,4.2,2.3,2025-02-22,Sin observacion
+1141,50,2,2025-1,4.0,4.7,1.9,2025-03-03,Sin observacion
+1142,50,3,2025-1,2.8,2.0,3.4,2025-02-01,Sin observacion
+1143,50,4,2025-1,1.5,3.2,2.9,2025-03-16,Sin observacion
+1144,50,5,2025-1,4.7,2.5,3.9,2025-03-06,Laboriosam pariatur voluptatum modi dolore corrupti pariatur mollitia.
+1145,50,6,2025-1,3.4,4.4,3.6,2025-03-13,Error quis molestiae praesentium velit voluptates.
+1146,50,7,2025-1,3.7,2.0,2.5,2025-03-06,Nam quam rerum molestias cupiditate dolore adipisci.
+1147,50,8,2025-1,4.2,1.5,4.5,2025-03-13,Excepturi dignissimos ducimus eveniet reprehenderit saepe.

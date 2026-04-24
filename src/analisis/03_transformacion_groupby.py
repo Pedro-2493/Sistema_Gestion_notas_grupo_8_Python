@@ -5,12 +5,11 @@ Tarea : Transformaciones con groupby() y columnas calculadas
 Archivo: src/analisis/03_transformacion_groupby.py
  
 """
-
 import pandas as pd
 import os
  
 # ── CONFIGURACIÓN ──────────────────────────────────────────────────────────────
-USAR_DATOS_LIMPIOS = False   # <-- cambia a True cuando Kevin suba datos_limpios.csv
+USAR_DATOS_LIMPIOS = False   # ← False: usa datos_limpios.csv + estudiantes/materias del raw
  
 ROOT = os.path.abspath(os.path.join(os.path.dirname(__file__), '..', '..'))
 RAW  = os.path.join(ROOT, 'data', 'raw')
@@ -21,21 +20,18 @@ os.makedirs(OUT, exist_ok=True)
 # ── 1. CARGAR DATOS ────────────────────────────────────────────────────────────
 if USAR_DATOS_LIMPIOS:
     df = pd.read_csv(os.path.join(OUT, 'datos_limpios.csv'))
-    print("✅ Cargado: data/processed/datos_limpios.csv")
 else:
-    # Leer las tres tablas
     estudiantes = pd.read_csv(os.path.join(RAW, 'estudiantes.csv'))
     materias    = pd.read_csv(os.path.join(RAW, 'materias.csv'))
-    notas       = pd.read_csv(os.path.join(RAW, 'notas.csv'))
- 
-    # Eliminar duplicados intencionales (misma id_nota repetida)
+    
+    # ← AQUÍ está el cambio clave: leer datos_limpios en vez de notas.csv
+    notas = pd.read_csv(os.path.join(OUT, 'datos_limpios.csv'))
+
     notas = notas.drop_duplicates(subset='id_nota')
- 
-    # Renombrar 'nombre' ANTES del merge para evitar nombre_x / nombre_y
+
     estudiantes = estudiantes.rename(columns={'nombre': 'nombre_estudiante'})
     materias    = materias.rename(columns={'nombre': 'nombre_materia'})
- 
-    # Unir las tres tablas
+
     df = (notas
           .merge(estudiantes[['id_estudiante', 'nombre_estudiante', 'apellido', 'grupo']],
                  on='id_estudiante', how='left')
@@ -104,23 +100,6 @@ print("─" * 60)
 print(promedio_por_materia.to_string(index=False))
 print()
  
- 
-# 3b. Cantidad de estudiantes únicos por grupo
-estudiantes_por_grupo = (
-    df.groupby('grupo')['id_estudiante']
-    .nunique()
-    .reset_index()
-    .rename(columns={'id_estudiante': 'cantidad_estudiantes'})
-    .sort_values('cantidad_estudiantes', ascending=False)
-)
- 
-print("─" * 60)
-print("CANTIDAD DE ESTUDIANTES POR GRUPO")
-print("─" * 60)
-print(estudiantes_por_grupo.to_string(index=False))
-print()
- 
- 
 # 3c. Tasa de aprobación por materia y periodo
 aprobacion_materia_periodo = (
     df.groupby(['nombre_materia', 'periodo'])['aprobado']
@@ -136,23 +115,6 @@ print("─" * 60)
 print(aprobacion_materia_periodo.to_string(index=False))
 print()
  
- 
-# 3d. Promedio ponderado por grupo y periodo
-promedio_grupo_periodo = (
-    df.groupby(['grupo', 'periodo'])['promedio_ponderado']
-    .agg(promedio='mean', desviacion='std')
-    .round(2)
-    .reset_index()
-    .sort_values(['periodo', 'grupo'])
-)
- 
-print("─" * 60)
-print("PROMEDIO PONDERADO POR GRUPO Y PERIODO")
-print("─" * 60)
-print(promedio_grupo_periodo.to_string(index=False))
-print()
- 
-
 
 # 3e. Ranking de estudiantes por promedio general
 ranking_estudiantes = (
@@ -176,15 +138,11 @@ print()
 # ── 4. GUARDAR RESULTADOS ──────────────────────────────────────────────────────
 df.to_csv(os.path.join(OUT, 'datos_con_columnas.csv'), index=False)
 promedio_por_materia.to_csv(os.path.join(OUT, 'promedio_por_materia.csv'), index=False)
-estudiantes_por_grupo.to_csv(os.path.join(OUT, 'estudiantes_por_grupo.csv'), index=False)
 aprobacion_materia_periodo.to_csv(os.path.join(OUT, 'aprobacion_materia_periodo.csv'), index=False)
-promedio_grupo_periodo.to_csv(os.path.join(OUT, 'promedio_grupo_periodo.csv'), index=False)
 ranking_estudiantes.to_csv(os.path.join(OUT, 'ranking_estudiantes.csv'))
- 
+
 print("✅ Archivos guardados en data/processed/")
 print("   • datos_con_columnas.csv")
 print("   • promedio_por_materia.csv")
-print("   • estudiantes_por_grupo.csv")
 print("   • aprobacion_materia_periodo.csv")
-print("   • promedio_grupo_periodo.csv")
 print("   • ranking_estudiantes.csv")
