@@ -1,9 +1,9 @@
-id_materia,nombre,creditos
-1,Matemáticas,4
-2,Programación,4
-3,Base de Datos,3
-4,Inglés,2
-5,Redes,3
-6,Algoritmos,4
-7,Estadística,3
-8,Ética Profesional,2
+id_materia,nombre_materia,descripcion
+1,Matemáticas,Cálculo y álgebra lineal
+2,Programación,Fundamentos de programación en Java
+3,Base de Datos,Modelado y consultas SQL
+4,Inglés,Inglés técnico nivel B1
+5,Redes,Fundamentos de redes y protocolos
+6,Algoritmos,Diseño y análisis de algoritmos
+7,Estadística,Estadística descriptiva e inferencial
+8,Ética Profesional,Ética y responsabilidad en ingeniería
