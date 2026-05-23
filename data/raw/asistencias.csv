@@ -1,17 +1,17 @@
 id_asistencia,id_estudiante,nombre_estudiante,id_materia,nombre_materia,fecha,estado
-1,3,Valentina Torres,1,Matemáticas,2026-05-22,PRESENTE
-2,4,Sebastián Gómez,1,Matemáticas,2026-05-22,AUSENTE
-3,5,Mariana López,1,Matemáticas,2026-05-22,PRESENTE
-4,3,Valentina Torres,2,Programación,2026-05-22,TARDANZA
-5,6,Kevin Ramírez,2,Programación,2026-05-22,PRESENTE
-6,7,Didier Castillo,3,Base de Datos,2026-05-22,AUSENTE
-7,8,Camila Vargas,3,Base de Datos,2026-05-22,PRESENTE
-8,9,Juan Pérez,4,Inglés,2026-05-22,PRESENTE
-9,10,Luisa Mora,4,Inglés,2026-05-22,TARDANZA
-10,11,Andrés Cárdenas,5,Redes,2026-05-22,PRESENTE
-11,12,Natalia Sierra,5,Redes,2026-05-22,AUSENTE
-12,13,Felipe Gutiérrez,6,Algoritmos,2026-05-22,PRESENTE
-13,14,Sara Bedoya,6,Algoritmos,2026-05-22,PRESENTE
-14,15,Mateo Restrepo,7,Estadística,2026-05-22,TARDANZA
-15,16,Isabella Ríos,7,Estadística,2026-05-22,AUSENTE
-16,17,Santiago Muñoz,8,Ética Profesional,2026-05-22,PRESENTE
+1,1,Valentina Torres,1,Matemáticas,2026-05-23,PRESENTE
+2,2,Sebastián Gómez,1,Matemáticas,2026-05-23,AUSENTE
+3,3,Mariana López,1,Matemáticas,2026-05-23,PRESENTE
+4,1,Valentina Torres,2,Programación,2026-05-23,TARDANZA
+5,4,Kevin Ramírez,2,Programación,2026-05-23,PRESENTE
+6,5,Didier Castillo,3,Base de Datos,2026-05-23,AUSENTE
+7,6,Camila Vargas,3,Base de Datos,2026-05-23,PRESENTE
+8,7,Juan Pérez,4,Inglés,2026-05-23,PRESENTE
+9,8,Luisa Mora,4,Inglés,2026-05-23,TARDANZA
+10,9,Andrés Cárdenas,5,Redes,2026-05-23,PRESENTE
+11,10,Natalia Sierra,5,Redes,2026-05-23,AUSENTE
+12,11,Felipe Gutiérrez,6,Algoritmos,2026-05-23,PRESENTE
+13,12,Sara Bedoya,6,Algoritmos,2026-05-23,PRESENTE
+14,13,Mateo Restrepo,7,Estadística,2026-05-23,TARDANZA
+15,14,Isabella Ríos,7,Estadística,2026-05-23,AUSENTE
+16,15,Santiago Muñoz,8,Ética Profesional,2026-05-23,PRESENTE

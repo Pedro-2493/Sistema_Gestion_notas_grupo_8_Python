@@ -1,18 +1,16 @@
 id_estudiante,nombre_estudiante,email,documento
-1,Luis Alberto Posada,luis@mail.com,32516465
-2,maria jose,maria@mail.com,32564654
-3,Valentina Torres,v.torres@cesde.edu.co,1023456781
-4,Sebastián Gómez,s.gomez@cesde.edu.co,1023456782
-5,Mariana López,m.lopez@cesde.edu.co,1023456783
-6,Kevin Ramírez,k.ramirez@cesde.edu.co,1023456784
-7,Didier Castillo,d.castillo@cesde.edu.co,1023456785
-8,Camila Vargas,c.vargas@cesde.edu.co,1023456786
-9,Juan Pérez,j.perez@cesde.edu.co,1023456787
-10,Luisa Mora,l.mora@cesde.edu.co,1023456788
-11,Andrés Cárdenas,a.cardenas@cesde.edu.co,1023456789
-12,Natalia Sierra,n.sierra@cesde.edu.co,1023456790
-13,Felipe Gutiérrez,f.gutierrez@cesde.edu.co,1023456791
-14,Sara Bedoya,s.bedoya@cesde.edu.co,1023456792
-15,Mateo Restrepo,m.restrepo@cesde.edu.co,1023456793
-16,Isabella Ríos,i.rios@cesde.edu.co,1023456794
-17,Santiago Muñoz,s.munoz@cesde.edu.co,1023456795
+1,Valentina Torres,v.torres@cesde.edu.co,1023456781
+2,Sebastián Gómez,s.gomez@cesde.edu.co,1023456782
+3,Mariana López,m.lopez@cesde.edu.co,1023456783
+4,Kevin Ramírez,k.ramirez@cesde.edu.co,1023456784
+5,Didier Castillo,d.castillo@cesde.edu.co,1023456785
+6,Camila Vargas,c.vargas@cesde.edu.co,1023456786
+7,Juan Pérez,j.perez@cesde.edu.co,1023456787
+8,Luisa Mora,l.mora@cesde.edu.co,1023456788
+9,Andrés Cárdenas,a.cardenas@cesde.edu.co,1023456789
+10,Natalia Sierra,n.sierra@cesde.edu.co,1023456790
+11,Felipe Gutiérrez,f.gutierrez@cesde.edu.co,1023456791
+12,Sara Bedoya,s.bedoya@cesde.edu.co,1023456792
+13,Mateo Restrepo,m.restrepo@cesde.edu.co,1023456793
+14,Isabella Ríos,i.rios@cesde.edu.co,1023456794
+15,Santiago Muñoz,s.munoz@cesde.edu.co,1023456795

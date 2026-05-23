@@ -32,8 +32,6 @@ print(f"\n1. Notas + Estudiantes: {len(df_con_estudiante)} filas")
 print(df_con_estudiante[['id_nota', 'nombre_estudiante', 'nombre_materia', 'nota', 'periodo']].head())
 
 # ── 2. MERGE: resultado anterior + materias ────────────────────
-# nombre_materia ya viene en notas desde la API
-# solo agregamos descripcion que no está en notas
 df_completo = pd.merge(
     df_con_estudiante,
     df_materias[['id_materia', 'descripcion']],

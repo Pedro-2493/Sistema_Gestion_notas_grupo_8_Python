@@ -19,21 +19,9 @@ print("=" * 55)
 print("TRANSFORMACIONES — merge() y join()")
 print("=" * 55)
 
-# ── 1. MERGE: notas + estudiantes ─────────────────────────────
-# nombre_estudiante ya viene en notas desde la API
-# solo agregamos email y documento que no están en notas
-df_con_estudiante = pd.merge(
-    df_notas,
-    df_estudiantes[['id_estudiante', 'email', 'documento']],
-    on='id_estudiante',
-    how='left'
-)
-print(f"\n1. Notas + Estudiantes: {len(df_con_estudiante)} filas")
-print(df_con_estudiante[['id_nota', 'nombre_estudiante', 'nombre_materia', 'nota', 'periodo']].head())
+
 
 # ── 2. MERGE: resultado anterior + materias ────────────────────
-# nombre_materia ya viene en notas desde la API
-# solo agregamos descripcion que no está en notas
 df_completo = pd.merge(
     df_con_estudiante,
     df_materias[['id_materia', 'descripcion']],
