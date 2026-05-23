@@ -4,7 +4,7 @@
 
 import requests
 
-BASE_URL = 'https://sistema-gestion-notas-grupo-8.onrender.com'
+BASE_URL = ''
 
 # ─────────────────────────────────────────────
 # DATOS

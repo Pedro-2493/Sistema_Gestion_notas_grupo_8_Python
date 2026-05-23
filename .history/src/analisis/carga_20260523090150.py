@@ -6,7 +6,7 @@ import pandas as pd
 import requests
 import os
 
-BASE_URL = 'https://sistema-gestion-notas-grupo-8.onrender.com'
+BASE_URL = ' https://sistema-gestion-notas-grupo-8.onrender.com'
 
 # ─────────────────────────────────────────────
 # FUNCIONES DE CONSUMO DE API
