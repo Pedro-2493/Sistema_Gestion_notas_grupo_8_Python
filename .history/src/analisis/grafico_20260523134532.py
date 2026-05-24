@@ -24,23 +24,37 @@ FONDO   = '#0D0D0D'
 GRID    = '#2a2a2a'
 
 # ── Gráfico 1: LOLLIPOP — promedio por materia ────────────────
-def obtener_lollipop_materias(promedio_mat: pd.DataFrame) -> list[dict]:
-    """
-    Promedio por materia con indicador de aprobado.
-    Usado por el lollipop de promedios por materia.
-    """
-    resumen = (
-        promedio_mat[['nombre_materia', 'promedio']]
-        .copy()
-        .assign(
-            promedio=lambda x: x['promedio'].round(2),
-            aprobado=lambda x: x['promedio'] >= 3.0,
-        )
-        .sort_values('promedio', ascending=True)
-        .reset_index(drop=True)
-    )
+fig, ax = plt.subplots(figsize=(12, 7))
+fig.patch.set_facecolor(FONDO)
+ax.set_facecolor(FONDO)
 
-    return resumen.to_dict(orient='records')
+materias  = promedio_mat['nombre_materia']
+promedios = promedio_mat['promedio']
+
+for i, (mat, prom) in enumerate(zip(materias, promedios)):
+    color = COLORES[i % len(COLORES)]
+    ax.plot([0, prom], [i, i], color=color, linewidth=2.5, alpha=0.7)
+    ax.scatter(prom, i, color=color, s=180, zorder=5, edgecolors='white', linewidths=0.8)
+    ax.text(prom + 0.05, i, f'{prom:.2f}', va='center',
+            color='white', fontsize=10, fontweight='bold')
+
+ax.set_yticks(range(len(materias)))
+ax.set_yticklabels(materias, color='white', fontsize=11)
+ax.set_xlabel('Promedio', color='white', fontsize=12)
+ax.set_title('Promedio de Calificaciones por Materia', color='white',
+             fontsize=15, fontweight='bold', pad=20)
+ax.set_xlim(0, 5.5)
+ax.axvline(x=3.0, color='#FF6B6B', linestyle='--', linewidth=1.2, alpha=0.6, label='Umbral 3.0')
+ax.tick_params(colors='white')
+ax.spines[:].set_color(GRID)
+ax.xaxis.grid(True, color=GRID, linestyle='--', alpha=0.5)
+ax.set_axisbelow(True)
+ax.legend(facecolor='#1A1A1A', edgecolor=GRID, labelcolor='white', fontsize=9)
+
+plt.tight_layout()
+plt.savefig(os.path.join(OUT, 'grafico_lollipop_materias.png'), dpi=150, facecolor=FONDO)
+plt.show()
+print("✅ Gráfico 1 guardado: grafico_lollipop_materias.png")
 
 
 

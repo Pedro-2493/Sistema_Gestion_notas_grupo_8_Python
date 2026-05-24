@@ -24,23 +24,7 @@ FONDO   = '#0D0D0D'
 GRID    = '#2a2a2a'
 
 # ── Gráfico 1: LOLLIPOP — promedio por materia ────────────────
-def obtener_lollipop_materias(promedio_mat: pd.DataFrame) -> list[dict]:
-    """
-    Promedio por materia con indicador de aprobado.
-    Usado por el lollipop de promedios por materia.
-    """
-    resumen = (
-        promedio_mat[['nombre_materia', 'promedio']]
-        .copy()
-        .assign(
-            promedio=lambda x: x['promedio'].round(2),
-            aprobado=lambda x: x['promedio'] >= 3.0,
-        )
-        .sort_values('promedio', ascending=True)
-        .reset_index(drop=True)
-    )
 
-    return resumen.to_dict(orient='records')
 
 
 
